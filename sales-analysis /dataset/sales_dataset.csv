@@ -1,0 +1,1001 @@
+Order_ID,Order_Date,Customer_Name,City,Region,Category,Product_Name,Quantity,Unit_Price,Discount_Percent,Net_Sales,Profit,Sales_Channel
+ORD10001,2025-11-15,Kavya Singh,Jaipur,North,Furniture,Office Chair,3,18090.0,8.27,53764.42,14494.65,Offline
+ORD10002,2025-02-11,Nitin Joshi,Bhopal,Central,Grocery,Coffee,10,570.0,4.43,5447.49,773.49,Offline
+ORD10003,2025-06-28,Arjun Nair,Delhi,North,Clothing,Jacket,3,2790.0,11.25,7428.38,2824.87,Offline
+ORD10004,2025-05-28,Manish Agarwal,Gurugram,North,Furniture,Office Chair,2,12700.0,9.95,21729.06,5561.96,Offline
+ORD10005,2025-02-16,Riya Kapoor,Bengaluru,South,Electronics,Tablet,4,22720.0,15.8,76520.96,5634.56,Online
+ORD10006,2025-05-13,Riya Kapoor,Jaipur,North,Clothing,Shoes,5,4110.0,11.19,17337.93,6600.56,Online
+ORD10007,2025-12-27,Shreya Das,Delhi,North,Grocery,Cooking Oil,1,1710.0,6.68,1723.43,209.06,Offline
+ORD10008,2025-03-04,Riya Kapoor,Bhubaneswar,East,Clothing,Jeans,2,2150.0,3.62,4144.34,1779.34,Online
+ORD10009,2025-10-08,Riya Kapoor,Surat,West,Grocery,Coffee,5,1270.0,12.45,6004.18,380.62,Online
+ORD10010,2025-01-05,Shreya Das,Kolkata,East,Clothing,Jeans,3,1670.0,8.73,4572.63,1817.13,Offline
+ORD10011,2025-05-14,Riya Kapoor,Indore,Central,Grocery,Coffee,4,760.0,9.7,2607.86,239.7,Online
+ORD10012,2025-08-23,Aditya Mishra,Bhubaneswar,East,Grocery,Rice,6,1580.0,7.57,8762.36,988.76,Online
+ORD10013,2025-09-03,Riya Kapoor,Surat,West,Clothing,Jeans,6,3410.0,2.0,20050.8,8797.8,Online
+ORD10014,2025-03-16,Aarav Sharma,Chennai,South,Electronics,Smartphone,4,55360.0,13.63,191257.73,18534.53,Online
+ORD10015,2025-05-07,Kavya Singh,Indore,Central,Grocery,Rice,4,1290.0,11.93,4317.19,297.55,Online
+ORD10016,2025-10-26,Riya Kapoor,Surat,West,Furniture,Study Table,3,5100.0,10.89,14724.54,3653.46,Offline
+ORD10017,2025-11-03,Rahul Singh,Lucknow,North,Grocery,Cooking Oil,3,1090.0,12.66,3084.5,188.59,Online
+ORD10018,2025-06-06,Amit Kumar,Bhubaneswar,East,Home Appliances,Washing Machine,5,50900.0,5.02,241724.1,53394.1,Online
+ORD10019,2025-02-07,Simran Kaur,Pune,West,Clothing,T-Shirt,4,2130.0,17.88,6996.62,2310.62,Online
+ORD10020,2025-08-19,Nitin Joshi,Delhi,North,Electronics,Headphones,3,5450.0,8.73,14922.64,2169.65,Online
+ORD10021,2025-08-23,Rahul Singh,Mumbai,West,Home Appliances,Washing Machine,3,36210.0,11.44,96202.73,15816.53,Offline
+ORD10022,2025-01-24,Priya Verma,Kolkata,East,Electronics,Smartphone,2,49540.0,12.98,86219.42,8937.02,Offline
+ORD10023,2025-03-08,Aditya Mishra,Indore,Central,Home Appliances,Mixer Grinder,1,6210.0,0.0,6210.0,1614.6,Online
+ORD10024,2025-09-30,Pooja Shah,Lucknow,North,Home Appliances,Washing Machine,4,34380.0,16.7,114554.16,12789.36,Online
+ORD10025,2025-08-01,Aditya Mishra,Mumbai,West,Furniture,Study Table,2,10270.0,10.22,18440.81,4679.01,Online
+ORD10026,2025-05-21,Anjali Rao,Bhopal,Central,Clothing,T-Shirt,5,1350.0,3.2,6207.3,2680.42,Offline
+ORD10027,2025-10-07,Sneha Patel,Delhi,North,Electronics,Headphones,4,9970.0,8.55,39387.88,5792.97,Offline
+ORD10028,2025-10-21,Shreya Das,Delhi,North,Furniture,Study Table,3,12030.0,20.92,30823.17,4708.45,Online
+ORD10029,2025-05-18,Rohit Yadav,Surat,West,Grocery,Cooking Oil,10,1300.0,9.04,11233.56,1106.56,Online
+ORD10030,2025-07-02,Neha Gupta,Jaipur,North,Clothing,Jeans,1,1180.0,4.3,1129.26,480.26,Online
+ORD10031,2025-03-24,Meera Iyer,Hyderabad,South,Furniture,Office Chair,2,8300.0,9.34,15049.56,3927.56,Online
+ORD10032,2025-01-12,Kavya Singh,Surat,West,Clothing,T-Shirt,2,500.0,11.54,884.6,334.6,Online
+ORD10033,2025-11-11,Shreya Das,Chennai,South,Furniture,Sofa,3,49580.0,7.52,148559.13,40930.87,Online
+ORD10034,2025-12-18,Rohit Yadav,Pune,West,Grocery,Coffee,2,870.0,7.59,1736.57,195.62,Online
+ORD10035,2025-08-12,Karan Malhotra,Kolkata,East,Furniture,Bookshelf,3,3280.0,14.72,8391.55,1798.75,Online
+ORD10036,2025-10-27,Karan Malhotra,Bengaluru,South,Electronics,Tablet,3,36880.0,13.33,103563.02,10359.89,Online
+ORD10037,2025-03-25,Amit Kumar,Pune,West,Grocery,Rice,2,1440.0,9.98,2592.58,230.98,Online
+ORD10038,2025-03-06,Anjali Rao,Chennai,South,Grocery,Tea,10,180.0,9.72,1625.04,149.04,Online
+ORD10039,2025-12-05,Kavya Singh,Bhubaneswar,East,Home Appliances,Washing Machine,1,25710.0,10.59,24826.3,4278.86,Online
+ORD10040,2025-05-22,Karan Malhotra,Kolkata,East,Furniture,Study Table,1,9570.0,8.27,8339.63,2248.33,Online
+ORD10041,2025-01-20,Aditya Mishra,Lucknow,North,Grocery,Rice,9,1590.0,9.96,12884.72,1150.52,Offline
+ORD10042,2025-11-18,Anjali Rao,Surat,West,Furniture,Bookshelf,1,3260.0,10.55,3149.36,790.42,Online
+ORD10043,2025-10-15,Vikram Mehta,Lucknow,North,Clothing,Jacket,2,6270.0,15.91,11388.48,3939.72,Online
+ORD10044,2025-08-31,Pooja Shah,Chennai,South,Furniture,Sofa,3,51120.0,5.33,145185.91,42434.71,Offline
+ORD10045,2025-07-01,Meera Iyer,Pune,West,Home Appliances,Mixer Grinder,1,2750.0,13.76,2371.6,336.6,Offline
+ORD10046,2025-05-16,Aarav Sharma,Noida,North,Home Appliances,Refrigerator,5,36450.0,16.69,144240.85,16119.1,Offline
+ORD10047,2025-07-14,Sneha Patel,Pune,West,Grocery,Tea,7,750.0,6.57,4905.08,600.07,Offline
+ORD10048,2025-10-08,Manish Agarwal,Jaipur,North,Electronics,Smartphone,3,54490.0,10.74,157586.39,19879.26,Online
+ORD10049,2025-07-02,Aarav Sharma,Pune,West,Home Appliances,Microwave,3,11430.0,11.01,30514.67,5140.07,Online
+ORD10050,2025-03-29,Karan Malhotra,Bhopal,Central,Clothing,Jacket,5,5620.0,9.35,25472.65,10017.65,Online
+ORD10051,2025-12-08,Aarav Sharma,Lucknow,North,Home Appliances,Refrigerator,5,68800.0,8.09,341464.03,66539.23,Online
+ORD10052,2025-03-20,Neha Gupta,Chennai,South,Electronics,Tablet,5,20590.0,6.0,96773.0,16472.0,Online
+ORD10053,2025-02-07,Neha Gupta,Hyderabad,South,Clothing,T-Shirt,6,1970.0,1.15,11684.07,5183.07,Online
+ORD10054,2025-05-07,Nitin Joshi,Chennai,South,Clothing,Shoes,5,2080.0,12.3,8664.76,3230.76,Offline
+ORD10055,2025-09-11,Anjali Rao,Chennai,South,Electronics,Laptop,1,80060.0,0.0,80060.0,17613.2,Online
+ORD10056,2025-06-15,Riya Kapoor,Mumbai,West,Furniture,Sofa,2,44330.0,12.04,77985.34,18583.14,Offline
+ORD10057,2025-04-23,Simran Kaur,Kolkata,East,Furniture,Study Table,2,8930.0,13.66,14649.31,3281.42,Offline
+ORD10058,2025-10-18,Rohit Yadav,Bhubaneswar,East,Grocery,Coffee,8,520.0,5.87,4229.07,544.98,Online
+ORD10059,2025-05-15,Anjali Rao,Hyderabad,South,Electronics,Tablet,4,19330.0,12.25,64455.88,7161.77,Online
+ORD10060,2025-08-23,Kavya Singh,Hyderabad,South,Home Appliances,Refrigerator,5,34740.0,12.86,151362.18,22824.18,Online
+ORD10061,2025-12-14,Kavya Singh,Hyderabad,South,Clothing,Jacket,4,2250.0,12.86,8470.01,3124.01,Offline
+ORD10062,2025-07-24,Kavya Singh,Pune,West,Clothing,Jacket,1,4850.0,8.22,4451.33,1783.83,Online
+ORD10063,2025-08-01,Riya Kapoor,Surat,West,Home Appliances,Microwave,5,15680.0,11.4,69462.4,11446.4,Offline
+ORD10064,2025-12-05,Aarav Sharma,Hyderabad,South,Electronics,Laptop,1,79080.0,10.81,76173.97,9556.98,Online
+ORD10065,2025-02-10,Aarav Sharma,Pune,West,Clothing,Jacket,3,4730.0,6.77,13229.34,5424.84,Online
+ORD10066,2025-04-16,Pooja Shah,Jaipur,North,Home Appliances,Microwave,4,21580.0,7.89,75533.88,14850.92,Online
+ORD10067,2025-10-14,Meera Iyer,Gurugram,North,Grocery,Coffee,10,1330.0,12.6,12554.14,775.66,Online
+ORD10068,2025-12-03,Karan Malhotra,Noida,North,Home Appliances,Washing Machine,4,59510.0,7.84,236927.88,46686.31,Online
+ORD10069,2025-01-19,Riya Kapoor,Bhopal,Central,Furniture,Sofa,2,63930.0,11.8,112772.52,27106.32,Online
+ORD10070,2025-09-20,Vikram Mehta,Chennai,South,Furniture,Sofa,2,28330.0,10.38,50778.69,12816.49,Online
+ORD10071,2025-12-05,Pooja Shah,Noida,North,Clothing,T-Shirt,6,1710.0,9.06,10076.88,3982.44,Online
+ORD10072,2025-11-02,Karan Malhotra,Bhopal,Central,Grocery,Rice,9,1610.0,10.46,14012.29,1179.95,Online
+ORD10073,2025-05-12,Aditya Mishra,Chennai,South,Home Appliances,Refrigerator,2,74390.0,11.36,125284.66,20692.32,Offline
+ORD10074,2025-04-18,Amit Kumar,Kolkata,East,Electronics,Smartphone,2,13670.0,10.29,23300.38,3041.44,Offline
+ORD10075,2025-06-16,Kavya Singh,Pune,West,Furniture,Sofa,3,25110.0,10.73,67247.09,16775.99,Offline
+ORD10076,2025-12-03,Priya Verma,Pune,West,Home Appliances,Washing Machine,2,48610.0,12.77,91589.41,13891.18,Offline
+ORD10077,2025-12-21,Sneha Patel,Surat,West,Furniture,Study Table,3,7780.0,9.34,22852.85,5964.02,Online
+ORD10078,2025-09-08,Pooja Shah,Noida,North,Home Appliances,Washing Machine,5,35380.0,10.86,157688.66,26782.66,Offline
+ORD10079,2025-08-27,Karan Malhotra,Ahmedabad,West,Grocery,Tea,2,1080.0,9.24,1960.42,189.22,Online
+ORD10080,2025-02-18,Rohit Yadav,Lucknow,North,Grocery,Rice,1,1110.0,11.66,980.57,70.37,Offline
+ORD10081,2025-08-05,Sneha Patel,Hyderabad,South,Electronics,Smartphone,1,41190.0,9.55,37256.35,5128.15,Online
+ORD10082,2025-10-02,Meera Iyer,Ahmedabad,West,Home Appliances,Mixer Grinder,2,3120.0,12.89,5870.52,883.51,Online
+ORD10083,2025-08-14,Riya Kapoor,Indore,Central,Furniture,Study Table,3,24370.0,14.47,62530.98,13547.28,Online
+ORD10084,2025-07-01,Sneha Patel,Gurugram,North,Home Appliances,Washing Machine,1,22870.0,4.45,21852.28,4928.49,Online
+ORD10085,2025-08-08,Rohit Yadav,Jaipur,North,Home Appliances,Washing Machine,2,44930.0,15.63,75814.88,9318.48,Offline
+ORD10086,2025-08-24,Riya Kapoor,Bengaluru,South,Furniture,Sofa,3,18500.0,14.77,47302.65,10117.65,Offline
+ORD10087,2025-08-22,Priya Verma,Lucknow,North,Electronics,Smartphone,3,44460.0,6.92,124150.1,20113.7,Online
+ORD10088,2025-10-07,Aditya Mishra,Hyderabad,South,Furniture,Office Chair,2,11110.0,19.61,19291.67,3213.28,Online
+ORD10089,2025-01-22,Manish Agarwal,Jaipur,North,Furniture,Bookshelf,3,3000.0,10.96,8013.6,1983.6,Offline
+ORD10090,2025-01-12,Aarav Sharma,Jaipur,North,Clothing,Shoes,5,5680.0,12.13,24955.08,9335.08,Online
+ORD10091,2025-01-10,Rahul Singh,Jaipur,North,Clothing,T-Shirt,3,700.0,16.84,1746.36,591.36,Offline
+ORD10092,2025-05-04,Anjali Rao,Jaipur,North,Furniture,Study Table,2,11140.0,7.51,19576.43,5395.21,Offline
+ORD10093,2025-05-08,Neha Gupta,Kolkata,East,Home Appliances,Microwave,4,13280.0,5.59,47643.06,10299.7,Online
+ORD10094,2025-09-13,Priya Verma,Bhopal,Central,Grocery,Coffee,1,960.0,8.71,876.38,89.18,Online
+ORD10095,2025-06-10,Manish Agarwal,Indore,Central,Home Appliances,Microwave,5,10620.0,10.72,47407.68,8113.68,Online
+ORD10096,2025-10-16,Rahul Singh,Delhi,North,Furniture,Study Table,1,24060.0,11.59,22973.16,5563.35,Online
+ORD10097,2025-08-01,Vikram Mehta,Mumbai,West,Clothing,Shoes,1,7100.0,12.84,6188.36,2283.36,Online
+ORD10098,2025-02-13,Priya Verma,Noida,North,Furniture,Study Table,2,15490.0,16.82,25769.16,5012.56,Offline
+ORD10099,2025-12-08,Nitin Joshi,Pune,West,Grocery,Rice,9,1670.0,6.91,15110.74,1800.17,Offline
+ORD10100,2025-03-28,Aarav Sharma,Noida,North,Home Appliances,Mixer Grinder,1,2090.0,5.16,1982.16,435.56,Online
+ORD10101,2025-02-06,Sneha Patel,Bengaluru,South,Grocery,Rice,5,1110.0,11.28,4923.96,372.96,Offline
+ORD10102,2025-10-02,Priya Verma,Ahmedabad,West,Clothing,T-Shirt,2,1380.0,9.91,2685.4,1045.96,Online
+ORD10103,2025-12-12,Sneha Patel,Delhi,North,Clothing,Shoes,4,5260.0,9.72,20514.5,8016.74,Online
+ORD10104,2025-08-28,Amit Kumar,Pune,West,Grocery,Tea,3,570.0,4.55,1632.2,230.0,Online
+ORD10105,2025-03-31,Aarav Sharma,Ahmedabad,West,Clothing,Jeans,3,2690.0,12.7,7045.11,2606.61,Online
+ORD10106,2025-06-23,Manish Agarwal,Kolkata,East,Electronics,Headphones,5,9740.0,12.63,42549.19,4563.19,Online
+ORD10107,2025-06-05,Manish Agarwal,Delhi,North,Furniture,Study Table,1,7310.0,8.87,6661.6,1763.9,Online
+ORD10108,2025-03-31,Anjali Rao,Mumbai,West,Furniture,Office Chair,2,19550.0,20.88,30935.92,4738.92,Online
+ORD10109,2025-01-03,Meera Iyer,Bhopal,Central,Home Appliances,Mixer Grinder,2,2500.0,5.26,4737.0,1037.0,Online
+ORD10110,2025-07-15,Manish Agarwal,Surat,West,Electronics,Headphones,2,9440.0,14.1,16217.92,1491.52,Online
+ORD10111,2025-02-04,Nitin Joshi,Jaipur,North,Electronics,Smartphone,4,60250.0,7.7,222443.0,34463.0,Offline
+ORD10112,2025-07-30,Sneha Patel,Indore,Central,Furniture,Bookshelf,3,8520.0,6.58,23878.15,6752.95,Offline
+ORD10113,2025-12-31,Anjali Rao,Jaipur,North,Grocery,Rice,5,770.0,5.32,3936.79,527.23,Offline
+ORD10114,2025-11-04,Vikram Mehta,Hyderabad,South,Home Appliances,Refrigerator,2,32640.0,14.13,60540.41,8368.63,Online
+ORD10115,2025-08-20,Priya Verma,Bengaluru,South,Grocery,Coffee,6,1300.0,7.58,7208.76,812.76,Online
+ORD10116,2025-10-25,Riya Kapoor,Pune,West,Furniture,Study Table,3,21950.0,8.07,65378.78,17729.72,Offline
+ORD10117,2025-09-21,Meera Iyer,Noida,North,Grocery,Tea,10,920.0,8.39,8428.12,884.12,Online
+ORD10118,2025-09-17,Arjun Nair,Ahmedabad,West,Grocery,Tea,10,990.0,11.72,8739.72,621.72,Offline
+ORD10119,2025-11-15,Anjali Rao,Ahmedabad,West,Electronics,Headphones,4,8260.0,14.72,30430.63,2597.74,Online
+ORD10120,2025-03-31,Sneha Patel,Kolkata,East,Furniture,Office Chair,1,5270.0,11.44,4667.11,1136.21,Online
+ORD10121,2025-02-13,Arjun Nair,Bhubaneswar,East,Grocery,Cooking Oil,9,890.0,15.16,6795.68,227.48,Online
+ORD10122,2025-02-20,Aarav Sharma,Jaipur,North,Clothing,Jacket,6,4790.0,15.56,24268.06,8461.06,Online
+ORD10123,2025-11-18,Vikram Mehta,Jaipur,North,Electronics,Tablet,4,33060.0,8.46,130736.7,19337.72,Online
+ORD10124,2025-05-02,Neha Gupta,Bhopal,Central,Furniture,Study Table,2,7490.0,11.5,12594.44,3059.66,Online
+ORD10125,2025-08-05,Riya Kapoor,Bhubaneswar,East,Home Appliances,Refrigerator,4,21130.0,13.78,72873.14,10328.34,Online
+ORD10126,2025-01-25,Rahul Singh,Noida,North,Clothing,Shoes,1,3770.0,13.21,3271.98,1198.48,Online
+ORD10127,2025-03-28,Shreya Das,Surat,West,Grocery,Cooking Oil,6,990.0,10.73,5302.64,431.84,Online
+ORD10128,2025-04-26,Meera Iyer,Bengaluru,South,Furniture,Sofa,3,58870.0,16.56,139995.21,27582.95,Offline
+ORD10129,2025-10-24,Shreya Das,Gurugram,North,Grocery,Tea,10,490.0,9.37,4796.14,456.7,Offline
+ORD10130,2025-11-09,Meera Iyer,Mumbai,West,Grocery,Coffee,9,590.0,9.46,5192.29,489.75,Online
+ORD10131,2025-06-08,Shreya Das,Surat,West,Home Appliances,Mixer Grinder,5,2810.0,11.78,12394.91,1997.91,Online
+ORD10132,2025-12-23,Neha Gupta,Ahmedabad,West,Electronics,Smartphone,3,46850.0,9.69,137085.16,18685.84,Offline
+ORD10133,2025-07-12,Meera Iyer,Hyderabad,South,Clothing,Shoes,5,5670.0,6.35,26549.78,10957.28,Offline
+ORD10134,2025-01-08,Simran Kaur,Indore,Central,Grocery,Tea,6,750.0,14.73,3837.15,147.15,Online
+ORD10135,2025-01-23,Pooja Shah,Surat,West,Clothing,T-Shirt,4,1050.0,10.52,3758.16,1448.16,Offline
+ORD10136,2025-06-03,Rohit Yadav,Noida,North,Electronics,Tablet,4,25110.0,14.29,86087.12,7743.92,Offline
+ORD10137,2025-04-01,Shreya Das,Delhi,North,Home Appliances,Washing Machine,2,20420.0,15.18,32908.46,4197.94,Online
+ORD10138,2025-08-03,Rahul Singh,Indore,Central,Electronics,Laptop,1,58010.0,5.6,54761.44,9513.64,Offline
+ORD10139,2025-10-15,Pooja Shah,Jaipur,North,Electronics,Headphones,4,1320.0,12.7,4978.2,530.32,Offline
+ORD10140,2025-08-01,Kavya Singh,Bhubaneswar,East,Furniture,Sofa,1,27890.0,8.56,25502.62,6816.32,Online
+ORD10141,2025-08-21,Riya Kapoor,Mumbai,West,Grocery,Coffee,2,1340.0,11.54,2370.73,173.13,Online
+ORD10142,2025-03-07,Nitin Joshi,Indore,Central,Home Appliances,Refrigerator,1,35810.0,12.99,31158.28,4658.88,Online
+ORD10143,2025-01-16,Arjun Nair,Lucknow,North,Home Appliances,Microwave,3,9390.0,7.66,26012.18,5166.38,Online
+ORD10144,2025-07-07,Kavya Singh,Gurugram,North,Furniture,Sofa,1,68290.0,6.63,63762.37,18008.07,Online
+ORD10145,2025-10-03,Rahul Singh,Ahmedabad,West,Home Appliances,Microwave,3,10840.0,10.54,31419.78,5429.8,Offline
+ORD10146,2025-03-29,Neha Gupta,Ahmedabad,West,Clothing,Jacket,2,5500.0,9.28,9979.2,3929.2,Online
+ORD10147,2025-04-02,Shreya Das,Kolkata,East,Furniture,Sofa,1,36880.0,8.48,32064.95,8590.83,Online
+ORD10148,2025-01-26,Anjali Rao,Lucknow,North,Grocery,Tea,9,990.0,11.85,7854.16,547.97,Online
+ORD10149,2025-05-18,Neha Gupta,Surat,West,Clothing,T-Shirt,2,2050.0,9.91,3509.01,1366.76,Offline
+ORD10150,2025-08-01,Pooja Shah,Pune,West,Furniture,Office Chair,3,7760.0,12.44,20383.97,4786.37,Online
+ORD10151,2025-02-16,Kavya Singh,Lucknow,North,Electronics,Laptop,4,58100.0,13.07,202025.32,20753.32,Offline
+ORD10152,2025-02-18,Meera Iyer,Delhi,North,Electronics,Tablet,3,17070.0,7.79,47220.74,7276.94,Offline
+ORD10153,2025-09-10,Meera Iyer,Hyderabad,South,Grocery,Cooking Oil,10,190.0,8.43,1739.83,181.83,Online
+ORD10154,2025-10-12,Arjun Nair,Noida,North,Furniture,Bookshelf,2,5230.0,11.73,9971.69,2402.83,Online
+ORD10155,2025-11-26,Riya Kapoor,Gurugram,North,Electronics,Headphones,1,7410.0,11.44,7087.28,845.1,Online
+ORD10156,2025-03-02,Vikram Mehta,Kolkata,East,Electronics,Tablet,3,43510.0,11.17,115949.8,14136.4,Online
+ORD10157,2025-03-04,Riya Kapoor,Surat,West,Home Appliances,Mixer Grinder,1,7720.0,16.25,6465.5,752.7,Offline
+ORD10158,2025-04-12,Pooja Shah,Chennai,South,Home Appliances,Mixer Grinder,2,7390.0,16.51,11722.83,1332.49,Online
+ORD10159,2025-08-10,Simran Kaur,Bhubaneswar,East,Furniture,Sofa,3,60700.0,3.95,174907.05,52900.05,Online
+ORD10160,2025-05-03,Karan Malhotra,Pune,West,Grocery,Coffee,6,600.0,10.65,3055.77,251.37,Offline
+ORD10161,2025-04-01,Pooja Shah,Gurugram,North,Home Appliances,Microwave,4,9800.0,9.56,33679.86,6122.26,Offline
+ORD10162,2025-05-29,Rohit Yadav,Bhubaneswar,East,Clothing,Shoes,3,1510.0,6.57,4020.76,1653.84,Online
+ORD10163,2025-09-19,Rahul Singh,Indore,Central,Furniture,Office Chair,3,16050.0,4.1,46175.85,13915.35,Online
+ORD10164,2025-03-08,Manish Agarwal,Jaipur,North,Furniture,Office Chair,3,15140.0,1.68,44656.94,14225.54,Online
+ORD10165,2025-01-07,Manish Agarwal,Hyderabad,South,Home Appliances,Microwave,3,16210.0,9.23,44141.45,8155.25,Offline
+ORD10166,2025-02-08,Rohit Yadav,Surat,West,Clothing,Jacket,5,3960.0,8.51,18115.02,7225.02,Online
+ORD10167,2025-11-13,Aarav Sharma,Kolkata,East,Electronics,Smartphone,1,34670.0,11.17,33261.15,4055.14,Offline
+ORD10168,2025-11-17,Aarav Sharma,Delhi,North,Electronics,Laptop,1,84780.0,9.1,83230.22,11811.55,Online
+ORD10169,2025-08-16,Shreya Das,Bhopal,Central,Electronics,Laptop,1,71700.0,13.24,62206.92,6280.92,Online
+ORD10170,2025-07-11,Pooja Shah,Lucknow,North,Clothing,Jeans,1,3420.0,14.68,2917.94,1036.94,Online
+ORD10171,2025-07-24,Pooja Shah,Bhopal,Central,Clothing,T-Shirt,6,2010.0,7.44,11162.74,4529.74,Offline
+ORD10172,2025-04-06,Priya Verma,Kolkata,East,Home Appliances,Microwave,1,8250.0,8.01,7209.72,1409.97,Online
+ORD10173,2025-01-04,Nitin Joshi,Noida,North,Furniture,Office Chair,1,13890.0,15.39,11752.33,2446.03,Online
+ORD10174,2025-04-02,Priya Verma,Gurugram,North,Clothing,Shoes,3,1920.0,6.79,5100.45,2090.85,Online
+ORD10175,2025-12-27,Shreya Das,Gurugram,North,Home Appliances,Mixer Grinder,5,4530.0,16.94,20318.14,2216.26,Online
+ORD10176,2025-11-06,Shreya Das,Indore,Central,Clothing,T-Shirt,4,1960.0,18.35,6913.47,2256.51,Online
+ORD10177,2025-04-11,Riya Kapoor,Mumbai,West,Home Appliances,Refrigerator,2,60410.0,8.82,104655.49,19719.03,Offline
+ORD10178,2025-03-03,Shreya Das,Jaipur,North,Grocery,Coffee,9,380.0,10.6,3057.48,253.08,Online
+ORD10179,2025-07-26,Rohit Yadav,Jaipur,North,Furniture,Sofa,3,66100.0,11.77,174960.09,42099.09,Online
+ORD10180,2025-06-18,Aditya Mishra,Hyderabad,South,Electronics,Headphones,2,6410.0,5.22,12150.8,2151.2,Online
+ORD10181,2025-02-16,Sneha Patel,Lucknow,North,Furniture,Sofa,3,28190.0,18.33,69068.32,12406.42,Online
+ORD10182,2025-07-28,Sneha Patel,Kolkata,East,Furniture,Study Table,3,21290.0,1.7,62784.21,19991.31,Online
+ORD10183,2025-12-27,Amit Kumar,Delhi,North,Grocery,Cooking Oil,3,130.0,9.97,379.21,33.82,Online
+ORD10184,2025-04-25,Aarav Sharma,Delhi,North,Furniture,Study Table,3,13070.0,8.73,33997.62,9040.45,Offline
+ORD10185,2025-10-05,Kavya Singh,Chennai,South,Electronics,Headphones,1,1660.0,18.12,1467.94,69.56,Online
+ORD10186,2025-08-25,Neha Gupta,Indore,Central,Electronics,Tablet,1,14270.0,10.5,12771.65,1641.05,Online
+ORD10187,2025-07-16,Meera Iyer,Ahmedabad,West,Home Appliances,Washing Machine,2,32400.0,4.4,61948.8,13996.8,Offline
+ORD10188,2025-12-22,Neha Gupta,Pune,West,Clothing,Jeans,4,3280.0,12.24,12435.24,4641.96,Online
+ORD10189,2025-06-26,Aarav Sharma,Kolkata,East,Electronics,Smartphone,5,17440.0,11.38,77276.64,9260.64,Online
+ORD10190,2025-07-21,Rohit Yadav,Mumbai,West,Home Appliances,Washing Machine,5,40840.0,15.3,172957.4,21849.4,Online
+ORD10191,2025-06-13,Vikram Mehta,Ahmedabad,West,Home Appliances,Mixer Grinder,4,3630.0,3.19,14056.81,3312.01,Online
+ORD10192,2025-08-12,Riya Kapoor,Chennai,South,Electronics,Laptop,1,77870.0,14.08,66905.9,6167.3,Offline
+ORD10193,2025-03-28,Anjali Rao,Gurugram,North,Clothing,T-Shirt,1,2130.0,14.43,1822.64,651.14,Offline
+ORD10194,2025-07-07,Meera Iyer,Ahmedabad,West,Furniture,Office Chair,3,10390.0,7.5,28832.25,7948.35,Offline
+ORD10195,2025-07-18,Aarav Sharma,Delhi,North,Electronics,Tablet,1,18880.0,6.42,17667.9,2941.5,Online
+ORD10196,2025-07-01,Neha Gupta,Lucknow,North,Home Appliances,Microwave,1,7030.0,7.52,6501.34,1299.14,Online
+ORD10197,2025-03-01,Pooja Shah,Gurugram,North,Furniture,Study Table,2,17020.0,14.39,29141.64,6334.84,Offline
+ORD10198,2025-04-20,Rahul Singh,Jaipur,North,Grocery,Rice,3,1620.0,13.33,4001.55,215.61,Online
+ORD10199,2025-03-08,Aditya Mishra,Ahmedabad,West,Furniture,Study Table,3,19640.0,8.18,54100.34,14623.94,Offline
+ORD10200,2025-08-26,Aarav Sharma,Kolkata,East,Home Appliances,Mixer Grinder,5,6720.0,13.62,29023.68,4159.68,Online
+ORD10201,2025-09-24,Amit Kumar,Chennai,South,Furniture,Study Table,2,10720.0,15.22,18176.83,3812.03,Online
+ORD10202,2025-11-22,Riya Kapoor,Surat,West,Home Appliances,Mixer Grinder,1,4470.0,8.85,4400.36,827.93,Online
+ORD10203,2025-05-22,Nitin Joshi,Bengaluru,South,Furniture,Sofa,1,39000.0,14.8,31566.6,6743.1,Offline
+ORD10204,2025-12-05,Manish Agarwal,Gurugram,North,Home Appliances,Washing Machine,1,34430.0,8.44,34046.04,6529.58,Online
+ORD10205,2025-01-25,Anjali Rao,Kolkata,East,Furniture,Sofa,2,18560.0,8.63,33916.54,9046.14,Online
+ORD10206,2025-03-27,Nitin Joshi,Ahmedabad,West,Home Appliances,Mixer Grinder,5,7540.0,9.52,34110.96,6212.96,Offline
+ORD10207,2025-07-24,Priya Verma,Jaipur,North,Electronics,Headphones,3,4790.0,11.23,12756.25,1547.65,Online
+ORD10208,2025-10-04,Amit Kumar,Ahmedabad,West,Clothing,Jeans,4,970.0,1.79,4115.39,1810.67,Offline
+ORD10209,2025-09-15,Rahul Singh,Bhubaneswar,East,Clothing,T-Shirt,4,1260.0,5.8,4747.68,1975.68,Online
+ORD10210,2025-03-31,Anjali Rao,Bhubaneswar,East,Furniture,Office Chair,3,11740.0,0.64,34994.59,11397.19,Offline
+ORD10211,2025-08-15,Shreya Das,Bhubaneswar,East,Home Appliances,Washing Machine,5,19420.0,12.55,84913.95,13059.95,Online
+ORD10212,2025-09-23,Aarav Sharma,Bhopal,Central,Electronics,Laptop,5,45300.0,15.06,192389.1,15719.1,Online
+ORD10213,2025-09-10,Meera Iyer,Delhi,North,Home Appliances,Washing Machine,1,25020.0,15.84,21056.83,2542.03,Online
+ORD10214,2025-09-22,Amit Kumar,Lucknow,North,Grocery,Tea,8,480.0,2.15,3757.44,608.64,Offline
+ORD10215,2025-08-13,Arjun Nair,Surat,West,Furniture,Study Table,2,6250.0,10.21,11223.75,2848.75,Offline
+ORD10216,2025-08-10,Nitin Joshi,Surat,West,Home Appliances,Washing Machine,1,44380.0,5.26,42045.61,9204.41,Offline
+ORD10217,2025-04-21,Pooja Shah,Mumbai,West,Electronics,Tablet,3,13210.0,4.59,35920.43,6554.6,Offline
+ORD10218,2025-06-29,Manish Agarwal,Bengaluru,South,Clothing,Shoes,6,4410.0,7.71,24419.93,9866.93,Online
+ORD10219,2025-08-10,Manish Agarwal,Noida,North,Home Appliances,Washing Machine,2,25070.0,4.8,47733.28,10629.68,Online
+ORD10220,2025-09-27,Sneha Patel,Mumbai,West,Home Appliances,Mixer Grinder,2,6980.0,18.18,11422.07,1091.67,Offline
+ORD10221,2025-12-10,Shreya Das,Surat,West,Clothing,T-Shirt,1,1070.0,4.07,1108.57,472.99,Offline
+ORD10222,2025-03-29,Riya Kapoor,Chennai,South,Home Appliances,Washing Machine,3,20350.0,6.02,57374.79,12197.79,Offline
+ORD10223,2025-04-22,Priya Verma,Pune,West,Clothing,T-Shirt,4,1280.0,9.28,4412.62,1737.42,Online
+ORD10224,2025-02-09,Pooja Shah,Bhubaneswar,East,Furniture,Bookshelf,1,2550.0,10.18,2290.41,581.91,Online
+ORD10225,2025-05-26,Priya Verma,Bhubaneswar,East,Electronics,Headphones,5,14420.0,10.07,61597.55,8171.45,Offline
+ORD10226,2025-03-01,Aarav Sharma,Delhi,North,Clothing,Jacket,3,5150.0,5.19,14648.14,6150.64,Online
+ORD10227,2025-08-08,Aarav Sharma,Jaipur,North,Home Appliances,Washing Machine,3,20690.0,10.92,55291.96,9360.16,Offline
+ORD10228,2025-12-26,Aarav Sharma,Pune,West,Clothing,T-Shirt,6,1500.0,11.05,8645.94,3299.94,Online
+ORD10229,2025-12-31,Rohit Yadav,Gurugram,North,Electronics,Laptop,3,70900.0,12.78,200358.3,21179.82,Online
+ORD10230,2025-09-07,Shreya Das,Bengaluru,South,Clothing,T-Shirt,3,1060.0,9.25,2885.85,1136.85,Offline
+ORD10231,2025-05-29,Shreya Das,Lucknow,North,Electronics,Laptop,3,75090.0,13.76,184559.21,17634.14,Offline
+ORD10232,2025-06-19,Pooja Shah,Mumbai,West,Electronics,Laptop,5,57750.0,4.2,276622.5,51397.5,Online
+ORD10233,2025-11-26,Nitin Joshi,Mumbai,West,Home Appliances,Mixer Grinder,2,5680.0,15.19,10405.17,1326.26,Online
+ORD10234,2025-03-14,Aditya Mishra,Hyderabad,South,Electronics,Headphones,3,8250.0,13.37,21440.92,2135.92,Online
+ORD10235,2025-01-24,Aditya Mishra,Delhi,North,Furniture,Bookshelf,3,15790.0,11.26,42036.14,10298.24,Online
+ORD10236,2025-10-01,Meera Iyer,Chennai,South,Clothing,Jeans,2,2860.0,11.82,5447.41,2049.73,Offline
+ORD10237,2025-01-15,Vikram Mehta,Gurugram,North,Grocery,Coffee,5,1320.0,13.86,5685.24,273.24,Online
+ORD10238,2025-12-25,Arjun Nair,Chennai,South,Clothing,Jacket,5,1910.0,13.37,8935.02,3262.32,Online
+ORD10239,2025-11-10,Rohit Yadav,Jaipur,North,Furniture,Study Table,2,9920.0,5.79,20186.57,5830.34,Online
+ORD10240,2025-08-16,Kavya Singh,Ahmedabad,West,Electronics,Headphones,4,4690.0,14.4,16058.56,1425.76,Offline
+ORD10241,2025-12-23,Rahul Singh,Kolkata,East,Grocery,Rice,5,1200.0,10.85,5776.92,463.32,Online
+ORD10242,2025-11-11,Anjali Rao,Ahmedabad,West,Furniture,Office Chair,2,19660.0,14.63,36252.88,7800.93,Online
+ORD10243,2025-07-04,Neha Gupta,Jaipur,North,Furniture,Study Table,3,21410.0,11.58,56792.17,13758.07,Offline
+ORD10244,2025-02-27,Rohit Yadav,Noida,North,Clothing,Jacket,5,3600.0,6.04,16912.8,7012.8,Online
+ORD10245,2025-01-07,Kavya Singh,Kolkata,East,Clothing,Jacket,2,2170.0,5.6,4096.96,1709.96,Offline
+ORD10246,2025-03-22,Nitin Joshi,Hyderabad,South,Home Appliances,Microwave,1,19330.0,11.7,17068.39,2764.19,Offline
+ORD10247,2025-09-22,Manish Agarwal,Indore,Central,Grocery,Rice,7,1580.0,14.34,9474.0,404.8,Online
+ORD10248,2025-11-28,Meera Iyer,Kolkata,East,Electronics,Headphones,5,9230.0,4.01,47843.34,8966.58,Online
+ORD10249,2025-11-25,Meera Iyer,Bhubaneswar,East,Electronics,Tablet,3,22580.0,8.6,66867.51,9803.33,Offline
+ORD10250,2025-02-05,Pooja Shah,Bhopal,Central,Electronics,Headphones,2,7930.0,14.21,13606.29,1235.49,Online
+ORD10251,2025-04-13,Vikram Mehta,Indore,Central,Electronics,Headphones,5,7230.0,8.52,31416.52,4629.37,Online
+ORD10252,2025-03-29,Vikram Mehta,Lucknow,North,Electronics,Laptop,4,70510.0,17.11,233782.96,13791.76,Online
+ORD10253,2025-01-22,Aditya Mishra,Hyderabad,South,Clothing,Jacket,5,1950.0,12.66,8515.65,3153.15,Online
+ORD10254,2025-01-16,Arjun Nair,Hyderabad,South,Furniture,Bookshelf,1,8910.0,14.85,7586.86,1617.16,Offline
+ORD10255,2025-04-08,Riya Kapoor,Mumbai,West,Grocery,Cooking Oil,9,1650.0,7.26,13083.3,1515.15,Online
+ORD10256,2025-04-19,Karan Malhotra,Surat,West,Furniture,Office Chair,2,19760.0,17.29,31052.64,5898.16,Online
+ORD10257,2025-09-04,Pooja Shah,Pune,West,Clothing,Shoes,4,2580.0,13.07,8971.18,3295.18,Offline
+ORD10258,2025-03-12,Rohit Yadav,Bhopal,Central,Electronics,Tablet,2,44030.0,11.59,77853.85,9167.05,Online
+ORD10259,2025-03-30,Aarav Sharma,Chennai,South,Home Appliances,Mixer Grinder,2,4770.0,13.19,8281.67,1222.07,Online
+ORD10260,2025-05-23,Vikram Mehta,Bengaluru,South,Home Appliances,Refrigerator,4,51420.0,11.28,173355.33,28762.29,Online
+ORD10261,2025-02-17,Vikram Mehta,Jaipur,North,Furniture,Study Table,3,8940.0,15.68,22614.62,4645.22,Online
+ORD10262,2025-05-30,Kavya Singh,Jaipur,North,Furniture,Bookshelf,2,13270.0,9.8,22742.13,5849.42,Offline
+ORD10263,2025-02-08,Amit Kumar,Kolkata,East,Clothing,Jeans,4,3110.0,9.18,11298.01,4456.01,Online
+ORD10264,2025-02-10,Arjun Nair,Delhi,North,Furniture,Study Table,1,12910.0,9.48,11686.13,3036.43,Offline
+ORD10265,2025-11-10,Rahul Singh,Mumbai,West,Clothing,Jacket,3,4340.0,11.13,12496.54,4762.66,Online
+ORD10266,2025-07-01,Aarav Sharma,Noida,North,Furniture,Study Table,2,15780.0,10.51,28243.04,7097.84,Online
+ORD10267,2025-09-19,Priya Verma,Hyderabad,South,Furniture,Office Chair,3,19540.0,2.82,56966.92,17691.52,Online
+ORD10268,2025-07-06,Sneha Patel,Indore,Central,Electronics,Tablet,3,38830.0,14.64,99435.86,8573.66,Online
+ORD10269,2025-04-29,Amit Kumar,Mumbai,West,Home Appliances,Microwave,5,14820.0,6.43,65868.6,13776.3,Offline
+ORD10270,2025-09-23,Anjali Rao,Kolkata,East,Furniture,Bookshelf,1,10780.0,8.26,9889.57,2666.97,Online
+ORD10271,2025-10-31,Meera Iyer,Surat,West,Home Appliances,Refrigerator,3,63610.0,8.78,188001.14,35489.8,Online
+ORD10272,2025-07-09,Pooja Shah,Jaipur,North,Grocery,Cooking Oil,8,400.0,13.28,2775.04,151.04,Offline
+ORD10273,2025-12-05,Manish Agarwal,Ahmedabad,West,Furniture,Bookshelf,2,9230.0,1.75,19587.91,6230.25,Online
+ORD10274,2025-11-02,Rahul Singh,Hyderabad,South,Furniture,Study Table,1,19720.0,4.61,20315.78,6046.39,Offline
+ORD10275,2025-11-20,Vikram Mehta,Indore,Central,Electronics,Smartphone,1,53250.0,19.8,46123.02,1265.22,Online
+ORD10276,2025-09-19,Meera Iyer,Delhi,North,Home Appliances,Mixer Grinder,4,4060.0,15.47,13727.67,1710.07,Online
+ORD10277,2025-10-11,Riya Kapoor,Noida,North,Furniture,Office Chair,3,19620.0,17.1,52698.54,10107.44,Offline
+ORD10278,2025-10-13,Karan Malhotra,Kolkata,East,Electronics,Smartphone,5,31810.0,9.09,156159.74,22176.02,Offline
+ORD10279,2025-08-30,Manish Agarwal,Bhopal,Central,Furniture,Study Table,3,14080.0,15.11,35857.54,7556.74,Online
+ORD10280,2025-08-28,Rohit Yadav,Noida,North,Grocery,Coffee,8,1740.0,9.33,12621.26,1206.86,Online
+ORD10281,2025-08-04,Rohit Yadav,Hyderabad,South,Home Appliances,Mixer Grinder,2,3630.0,8.39,6650.89,1278.49,Offline
+ORD10282,2025-09-08,Amit Kumar,Pune,West,Electronics,Laptop,1,58050.0,2.86,56389.77,11110.77,Online
+ORD10283,2025-02-08,Riya Kapoor,Mumbai,West,Furniture,Office Chair,1,19400.0,9.82,17494.92,4496.92,Online
+ORD10284,2025-07-28,Rahul Singh,Kolkata,East,Clothing,Jacket,2,4910.0,9.07,8929.33,3528.33,Online
+ORD10285,2025-10-28,Nitin Joshi,Chennai,South,Grocery,Cooking Oil,3,1190.0,1.24,3807.79,646.2,Online
+ORD10286,2025-08-18,Arjun Nair,Bhopal,Central,Electronics,Laptop,1,55070.0,6.28,51611.6,8657.0,Online
+ORD10287,2025-07-17,Nitin Joshi,Noida,North,Electronics,Headphones,4,9260.0,8.95,33724.92,4833.72,Online
+ORD10288,2025-10-25,Nitin Joshi,Indore,Central,Grocery,Cooking Oil,9,1150.0,5.52,10560.97,1395.01,Offline
+ORD10289,2025-03-06,Manish Agarwal,Indore,Central,Clothing,T-Shirt,3,740.0,13.14,1928.29,707.29,Online
+ORD10290,2025-10-08,Rohit Yadav,Bhubaneswar,East,Clothing,T-Shirt,6,730.0,8.83,4312.71,1710.99,Online
+ORD10291,2025-09-10,Vikram Mehta,Indore,Central,Furniture,Office Chair,2,8930.0,11.36,15831.1,3864.9,Online
+ORD10292,2025-07-19,Pooja Shah,Indore,Central,Furniture,Study Table,3,13440.0,14.88,34320.38,7305.98,Online
+ORD10293,2025-03-03,Anjali Rao,Surat,West,Clothing,T-Shirt,1,1410.0,11.62,1246.16,470.66,Offline
+ORD10294,2025-06-13,Pooja Shah,Pune,West,Electronics,Headphones,1,8410.0,4.65,8018.94,1459.14,Offline
+ORD10295,2025-12-08,Aditya Mishra,Jaipur,North,Furniture,Study Table,2,8610.0,12.89,16200.37,3739.98,Online
+ORD10296,2025-02-13,Riya Kapoor,Bengaluru,South,Furniture,Study Table,3,24720.0,7.81,68368.1,18680.9,Online
+ORD10297,2025-12-17,Karan Malhotra,Chennai,South,Electronics,Smartphone,4,63390.0,3.5,264260.23,50661.29,Online
+ORD10298,2025-03-07,Priya Verma,Bhubaneswar,East,Furniture,Office Chair,2,10760.0,9.28,19522.94,5104.54,Offline
+ORD10299,2025-07-19,Shreya Das,Gurugram,North,Home Appliances,Refrigerator,2,56120.0,11.98,98793.65,15736.05,Online
+ORD10300,2025-07-20,Rahul Singh,Indore,Central,Home Appliances,Mixer Grinder,4,4570.0,11.74,16133.93,2606.73,Online
+ORD10301,2025-08-08,Neha Gupta,Kolkata,East,Grocery,Coffee,2,1420.0,3.61,2737.48,408.68,Online
+ORD10302,2025-10-17,Nitin Joshi,Surat,West,Electronics,Smartphone,4,58990.0,10.21,228817.96,30045.26,Offline
+ORD10303,2025-06-05,Aarav Sharma,Bengaluru,South,Grocery,Coffee,3,1610.0,14.16,4146.07,185.47,Online
+ORD10304,2025-06-09,Kavya Singh,Noida,North,Furniture,Sofa,3,23930.0,7.44,66448.82,18349.52,Offline
+ORD10305,2025-06-26,Pooja Shah,Delhi,North,Clothing,Jeans,5,1970.0,10.18,8847.27,3429.77,Offline
+ORD10306,2025-06-02,Sneha Patel,Pune,West,Grocery,Coffee,5,1780.0,10.42,7972.62,674.62,Online
+ORD10307,2025-05-06,Vikram Mehta,Jaipur,North,Grocery,Coffee,7,260.0,10.85,1541.4,123.62,Online
+ORD10308,2025-09-28,Meera Iyer,Chennai,South,Electronics,Laptop,1,58020.0,14.64,49525.87,4270.27,Online
+ORD10309,2025-11-03,Manish Agarwal,Gurugram,North,Home Appliances,Mixer Grinder,3,3890.0,10.72,11252.49,1925.83,Online
+ORD10310,2025-07-19,Sneha Patel,Jaipur,North,Clothing,Jeans,2,3380.0,4.98,6423.35,2705.35,Online
+ORD10311,2025-09-11,Manish Agarwal,Jaipur,North,Clothing,T-Shirt,5,1210.0,5.93,5691.24,2363.73,Offline
+ORD10312,2025-03-10,Aarav Sharma,Lucknow,North,Grocery,Tea,3,880.0,11.09,2347.22,182.42,Online
+ORD10313,2025-08-13,Vikram Mehta,Surat,West,Home Appliances,Microwave,5,8270.0,2.12,40473.38,9874.38,Online
+ORD10314,2025-02-12,Shreya Das,Bengaluru,South,Home Appliances,Refrigerator,2,64680.0,10.16,116217.02,20490.62,Online
+ORD10315,2025-04-01,Aditya Mishra,Hyderabad,South,Clothing,T-Shirt,4,1750.0,10.51,5951.08,2293.58,Online
+ORD10316,2025-05-26,Vikram Mehta,Jaipur,North,Electronics,Smartphone,2,65100.0,12.15,108661.66,12183.46,Online
+ORD10317,2025-09-09,Nitin Joshi,Noida,North,Electronics,Tablet,5,11540.0,8.52,52783.96,7777.96,Offline
+ORD10318,2025-10-05,Aarav Sharma,Chennai,South,Clothing,Jacket,4,4180.0,10.44,16172.39,6240.71,Offline
+ORD10319,2025-01-17,Priya Verma,Jaipur,North,Electronics,Smartphone,2,68520.0,7.18,127200.53,20309.33,Offline
+ORD10320,2025-09-13,Riya Kapoor,Bhubaneswar,East,Furniture,Bookshelf,2,15780.0,7.0,29350.8,8205.6,Offline
+ORD10321,2025-01-19,Anjali Rao,Bhubaneswar,East,Home Appliances,Mixer Grinder,2,6960.0,13.97,11975.38,1674.58,Online
+ORD10322,2025-02-18,Vikram Mehta,Pune,West,Electronics,Headphones,5,2430.0,7.85,11196.22,1719.23,Offline
+ORD10323,2025-01-17,Rahul Singh,Pune,West,Clothing,Shoes,1,7100.0,11.51,6282.79,2377.79,Offline
+ORD10324,2025-02-28,Karan Malhotra,Mumbai,West,Electronics,Headphones,4,6250.0,14.66,21335.0,1835.0,Online
+ORD10325,2025-03-09,Riya Kapoor,Hyderabad,South,Grocery,Cooking Oil,9,1580.0,16.76,11836.73,176.33,Offline
+ORD10326,2025-08-02,Meera Iyer,Noida,North,Electronics,Tablet,4,24320.0,16.01,81705.47,5827.07,Offline
+ORD10327,2025-12-07,Rohit Yadav,Chennai,South,Home Appliances,Microwave,2,15600.0,7.65,31118.26,6183.22,Online
+ORD10328,2025-11-26,Anjali Rao,Kolkata,East,Home Appliances,Refrigerator,3,31390.0,4.01,97625.29,22364.62,Offline
+ORD10329,2025-04-07,Kavya Singh,Lucknow,North,Clothing,T-Shirt,6,1080.0,8.92,5606.88,2221.08,Online
+ORD10330,2025-10-19,Pooja Shah,Hyderabad,South,Electronics,Laptop,2,88440.0,8.22,175327.7,26323.99,Online
+ORD10331,2025-03-03,Riya Kapoor,Bengaluru,South,Home Appliances,Refrigerator,2,68210.0,9.83,123009.91,22059.11,Online
+ORD10332,2025-05-05,Nitin Joshi,Bhopal,Central,Home Appliances,Refrigerator,5,20780.0,9.04,89782.07,16740.37,Offline
+ORD10333,2025-06-23,Neha Gupta,Kolkata,East,Electronics,Tablet,5,16780.0,9.58,75862.38,10420.38,Offline
+ORD10334,2025-10-10,Neha Gupta,Gurugram,North,Electronics,Headphones,2,8040.0,2.71,16895.77,3349.98,Online
+ORD10335,2025-02-26,Neha Gupta,Hyderabad,South,Clothing,Shoes,4,2540.0,11.43,8998.71,3410.71,Online
+ORD10336,2025-10-10,Rohit Yadav,Jaipur,North,Clothing,Jacket,3,3130.0,17.7,8346.21,2768.55,Offline
+ORD10337,2025-04-07,Kavya Singh,Gurugram,North,Grocery,Tea,9,660.0,17.31,4666.2,38.94,Online
+ORD10338,2025-06-07,Neha Gupta,Ahmedabad,West,Grocery,Tea,10,380.0,12.55,3323.1,207.1,Online
+ORD10339,2025-09-03,Manish Agarwal,Delhi,North,Clothing,T-Shirt,3,520.0,13.0,1357.2,499.2,Online
+ORD10340,2025-10-30,Simran Kaur,Lucknow,North,Electronics,Tablet,3,39690.0,6.99,119606.77,19302.2,Online
+ORD10341,2025-10-27,Priya Verma,Ahmedabad,West,Furniture,Office Chair,1,4570.0,8.26,4527.92,1221.07,Online
+ORD10342,2025-03-21,Priya Verma,Noida,North,Home Appliances,Microwave,3,13000.0,19.11,31547.1,2687.1,Online
+ORD10343,2025-06-03,Aarav Sharma,Indore,Central,Clothing,Jacket,2,2270.0,11.44,4020.62,1523.62,Offline
+ORD10344,2025-03-16,Priya Verma,Hyderabad,South,Home Appliances,Washing Machine,4,34100.0,15.34,115476.24,14540.24,Offline
+ORD10345,2025-06-15,Aarav Sharma,Noida,North,Electronics,Laptop,4,45880.0,10.54,164176.99,21031.39,Online
+ORD10346,2025-11-06,Aarav Sharma,Delhi,North,Electronics,Tablet,4,34130.0,12.44,129099.86,14095.42,Offline
+ORD10347,2025-08-28,Karan Malhotra,Jaipur,North,Clothing,Jeans,1,3240.0,13.34,2807.78,1025.78,Online
+ORD10348,2025-10-19,Vikram Mehta,Bengaluru,South,Grocery,Rice,3,860.0,12.82,2429.18,144.34,Offline
+ORD10349,2025-08-07,Kavya Singh,Gurugram,North,Home Appliances,Refrigerator,2,20280.0,5.88,38175.07,8160.67,Online
+ORD10350,2025-07-21,Arjun Nair,Jaipur,North,Grocery,Coffee,4,1160.0,9.2,4213.12,408.32,Online
+ORD10351,2025-07-14,Meera Iyer,Jaipur,North,Home Appliances,Washing Machine,5,52850.0,18.9,214306.75,18761.75,Offline
+ORD10352,2025-10-17,Amit Kumar,Bhopal,Central,Grocery,Tea,8,810.0,10.06,6294.36,555.67,Online
+ORD10353,2025-12-26,Karan Malhotra,Jaipur,North,Electronics,Headphones,2,12420.0,15.09,22778.98,1853.76,Offline
+ORD10354,2025-05-07,Simran Kaur,Chennai,South,Electronics,Laptop,5,46450.0,9.68,199279.79,27182.54,Online
+ORD10355,2025-08-17,Nitin Joshi,Surat,West,Grocery,Cooking Oil,10,790.0,5.24,7486.04,1008.04,Online
+ORD10356,2025-07-04,Aditya Mishra,Indore,Central,Home Appliances,Microwave,1,11130.0,6.82,10370.93,2134.73,Offline
+ORD10357,2025-02-08,Priya Verma,Jaipur,North,Furniture,Sofa,3,32140.0,4.03,92534.27,27932.87,Offline
+ORD10358,2025-11-28,Meera Iyer,Bhopal,Central,Furniture,Office Chair,3,6230.0,2.73,19634.14,6110.06,Offline
+ORD10359,2025-07-08,Meera Iyer,Noida,North,Home Appliances,Mixer Grinder,3,7140.0,8.79,19537.18,3686.38,Offline
+ORD10360,2025-07-11,Neha Gupta,Hyderabad,South,Clothing,Jeans,1,1180.0,7.08,1096.46,447.46,Offline
+ORD10361,2025-06-22,Rahul Singh,Bhubaneswar,East,Clothing,Shoes,1,7170.0,4.47,6849.5,2906.0,Online
+ORD10362,2025-10-22,Simran Kaur,Indore,Central,Electronics,Smartphone,4,25920.0,6.88,104270.56,16930.53,Offline
+ORD10363,2025-04-08,Karan Malhotra,Pune,West,Grocery,Coffee,3,680.0,7.69,1788.97,199.81,Online
+ORD10364,2025-07-05,Vikram Mehta,Pune,West,Furniture,Study Table,2,21370.0,12.08,37577.01,8941.21,Offline
+ORD10365,2025-03-23,Shreya Das,Surat,West,Grocery,Coffee,1,1580.0,12.18,1387.56,91.96,Offline
+ORD10366,2025-06-10,Priya Verma,Kolkata,East,Electronics,Smartphone,5,18000.0,10.58,80478.0,10278.0,Online
+ORD10367,2025-09-20,Karan Malhotra,Surat,West,Home Appliances,Microwave,5,16340.0,14.15,70139.45,9681.45,Online
+ORD10368,2025-06-20,Shreya Das,Mumbai,West,Home Appliances,Microwave,5,20840.0,10.35,93415.3,16307.3,Online
+ORD10369,2025-04-20,Neha Gupta,Pune,West,Home Appliances,Washing Machine,5,54830.0,11.07,231611.52,38884.07,Online
+ORD10370,2025-09-06,Amit Kumar,Gurugram,North,Clothing,T-Shirt,4,1690.0,6.0,6354.4,2636.4,Offline
+ORD10371,2025-08-04,Vikram Mehta,Gurugram,North,Clothing,Jeans,3,1130.0,7.26,3143.89,1279.39,Online
+ORD10372,2025-11-25,Priya Verma,Hyderabad,South,Grocery,Coffee,5,730.0,9.79,3556.08,323.64,Offline
+ORD10373,2025-09-15,Amit Kumar,Chennai,South,Furniture,Bookshelf,2,9930.0,8.47,18177.86,4871.66,Online
+ORD10374,2025-06-19,Arjun Nair,Ahmedabad,West,Grocery,Coffee,3,340.0,17.19,844.66,8.26,Online
+ORD10375,2025-02-09,Pooja Shah,Bengaluru,South,Grocery,Tea,8,960.0,12.42,6726.14,428.54,Online
+ORD10376,2025-08-22,Priya Verma,Ahmedabad,West,Clothing,Shoes,6,2910.0,12.83,15219.88,5616.88,Online
+ORD10377,2025-11-26,Pooja Shah,Noida,North,Clothing,Jacket,2,2350.0,9.45,4596.32,1804.52,Online
+ORD10378,2025-03-04,Rahul Singh,Chennai,South,Home Appliances,Mixer Grinder,5,7020.0,11.67,31003.83,5029.83,Online
+ORD10379,2025-11-12,Neha Gupta,Lucknow,North,Electronics,Headphones,1,10190.0,16.24,9217.96,633.9,Offline
+ORD10380,2025-10-19,Neha Gupta,Delhi,North,Electronics,Tablet,3,34220.0,7.36,102712.56,16231.78,Online
+ORD10381,2025-04-02,Kavya Singh,Surat,West,Home Appliances,Washing Machine,5,19190.0,15.04,77443.16,9990.31,Online
+ORD10382,2025-06-01,Aditya Mishra,Delhi,North,Furniture,Office Chair,2,8860.0,4.14,16986.39,5113.99,Offline
+ORD10383,2025-10-27,Aditya Mishra,Kolkata,East,Electronics,Headphones,1,14220.0,12.39,13454.79,1475.87,Online
+ORD10384,2025-05-19,Amit Kumar,Ahmedabad,West,Electronics,Tablet,1,22600.0,14.15,18432.0,1685.39,Offline
+ORD10385,2025-02-13,Pooja Shah,Hyderabad,South,Furniture,Bookshelf,1,3600.0,14.08,3093.12,681.12,Online
+ORD10386,2025-10-24,Sneha Patel,Delhi,North,Furniture,Bookshelf,3,6200.0,13.88,17299.79,3840.83,Online
+ORD10387,2025-11-19,Amit Kumar,Noida,North,Furniture,Sofa,3,45730.0,4.28,141823.73,42553.05,Offline
+ORD10388,2025-11-15,Manish Agarwal,Hyderabad,South,Electronics,Tablet,5,26720.0,8.72,131706.09,19161.45,Offline
+ORD10389,2025-04-01,Kavya Singh,Surat,West,Grocery,Coffee,1,1400.0,16.6,1109.22,18.62,Online
+ORD10390,2025-09-23,Meera Iyer,Bhubaneswar,East,Grocery,Tea,7,1180.0,14.37,7073.04,299.84,Online
+ORD10391,2025-09-21,Riya Kapoor,Delhi,North,Home Appliances,Refrigerator,3,72490.0,7.63,200877.04,39949.24,Online
+ORD10392,2025-05-24,Kavya Singh,Hyderabad,South,Electronics,Laptop,3,45970.0,7.15,121646.96,19455.65,Online
+ORD10393,2025-07-20,Vikram Mehta,Kolkata,East,Furniture,Bookshelf,3,14990.0,11.96,39591.59,9461.69,Online
+ORD10394,2025-09-25,Neha Gupta,Surat,West,Grocery,Rice,8,760.0,9.63,5494.5,508.9,Online
+ORD10395,2025-08-22,Arjun Nair,Mumbai,West,Grocery,Coffee,5,1650.0,9.34,7479.45,714.45,Online
+ORD10396,2025-05-13,Meera Iyer,Delhi,North,Furniture,Office Chair,1,15350.0,7.18,13535.48,3765.2,Offline
+ORD10397,2025-07-06,Anjali Rao,Gurugram,North,Home Appliances,Microwave,1,18430.0,11.23,16360.31,2722.11,Online
+ORD10398,2025-01-29,Rohit Yadav,Noida,North,Home Appliances,Washing Machine,4,52870.0,13.45,183035.94,26540.74,Online
+ORD10399,2025-09-13,Riya Kapoor,Jaipur,North,Grocery,Rice,3,810.0,10.11,2184.33,191.73,Online
+ORD10400,2025-11-11,Arjun Nair,Mumbai,West,Furniture,Study Table,1,21960.0,12.91,20654.96,4764.71,Offline
+ORD10401,2025-05-16,Simran Kaur,Bhubaneswar,East,Clothing,T-Shirt,4,820.0,10.12,2800.66,1086.86,Online
+ORD10402,2025-02-14,Karan Malhotra,Bhopal,Central,Furniture,Bookshelf,3,6210.0,20.8,14754.96,2272.86,Online
+ORD10403,2025-10-19,Manish Agarwal,Delhi,North,Clothing,Jeans,2,2510.0,12.76,4729.8,1747.92,Online
+ORD10404,2025-01-21,Simran Kaur,Jaipur,North,Electronics,Smartphone,4,64120.0,15.65,216340.88,16286.48,Online
+ORD10405,2025-08-04,Neha Gupta,Bhopal,Central,Furniture,Sofa,3,62820.0,3.49,181882.75,55614.55,Online
+ORD10406,2025-05-11,Aarav Sharma,Surat,West,Grocery,Tea,4,150.0,7.47,527.42,60.02,Offline
+ORD10407,2025-08-20,Shreya Das,Bengaluru,South,Electronics,Tablet,5,20590.0,9.39,93283.0,12981.99,Online
+ORD10408,2025-03-28,Riya Kapoor,Mumbai,West,Grocery,Tea,2,590.0,6.8,1099.76,132.16,Online
+ORD10409,2025-02-13,Rohit Yadav,Mumbai,West,Clothing,Jeans,1,2150.0,1.44,2119.04,936.54,Offline
+ORD10410,2025-04-05,Riya Kapoor,Surat,West,Clothing,Jacket,6,2280.0,8.6,11878.34,4730.54,Online
+ORD10411,2025-03-31,Neha Gupta,Noida,North,Grocery,Rice,7,1100.0,16.5,6429.5,115.5,Online
+ORD10412,2025-08-08,Amit Kumar,Hyderabad,South,Furniture,Bookshelf,3,9460.0,11.86,25014.13,5999.53,Online
+ORD10413,2025-06-10,Aarav Sharma,Mumbai,West,Home Appliances,Washing Machine,3,25870.0,12.19,68149.34,10717.94,Online
+ORD10414,2025-03-18,Sneha Patel,Hyderabad,South,Furniture,Study Table,2,19720.0,14.12,33871.07,7446.27,Online
+ORD10415,2025-03-14,Rahul Singh,Delhi,North,Electronics,Tablet,1,32600.0,9.23,29591.02,4163.02,Online
+ORD10416,2025-04-09,Aditya Mishra,Bengaluru,South,Furniture,Bookshelf,2,13080.0,14.7,21198.76,4547.92,Online
+ORD10417,2025-09-08,Aditya Mishra,Lucknow,North,Home Appliances,Washing Machine,2,39640.0,10.46,70987.31,12320.11,Offline
+ORD10418,2025-03-16,Pooja Shah,Chennai,South,Electronics,Laptop,5,52870.0,12.78,230566.07,24373.07,Offline
+ORD10419,2025-11-29,Priya Verma,Noida,North,Clothing,Jeans,4,950.0,6.08,3854.48,1597.28,Online
+ORD10420,2025-06-17,Priya Verma,Pune,West,Furniture,Office Chair,2,16100.0,10.33,28873.74,7299.74,Online
+ORD10421,2025-11-17,Aarav Sharma,Bengaluru,South,Furniture,Bookshelf,3,5810.0,11.67,16627.59,4015.24,Online
+ORD10422,2025-02-06,Aarav Sharma,Bengaluru,South,Electronics,Headphones,3,5240.0,7.1,14603.88,2342.28,Offline
+ORD10423,2025-05-12,Aditya Mishra,Indore,Central,Clothing,Jacket,4,4810.0,5.76,17225.19,7172.29,Online
+ORD10424,2025-01-20,Rahul Singh,Bhubaneswar,East,Electronics,Headphones,3,12720.0,3.57,36797.69,7032.89,Online
+ORD10425,2025-05-23,Riya Kapoor,Bengaluru,South,Clothing,T-Shirt,3,2060.0,11.71,5183.51,1954.46,Online
+ORD10426,2025-02-18,Manish Agarwal,Pune,West,Furniture,Study Table,2,7140.0,10.96,12714.91,3147.31,Offline
+ORD10427,2025-01-16,Vikram Mehta,Jaipur,North,Electronics,Tablet,4,11840.0,13.65,40895.36,3954.56,Offline
+ORD10428,2025-05-13,Karan Malhotra,Jaipur,North,Electronics,Laptop,3,88320.0,12.3,220751.42,24416.06,Online
+ORD10429,2025-04-16,Arjun Nair,Bhopal,Central,Electronics,Laptop,4,64570.0,17.84,201592.71,10207.23,Offline
+ORD10430,2025-05-31,Anjali Rao,Surat,West,Home Appliances,Washing Machine,5,42930.0,11.31,180854.43,29955.48,Online
+ORD10431,2025-03-20,Neha Gupta,Bhopal,Central,Electronics,Tablet,4,10380.0,13.49,35918.95,3533.35,Online
+ORD10432,2025-05-04,Priya Verma,Pune,West,Grocery,Rice,3,900.0,11.47,2270.79,167.49,Online
+ORD10433,2025-11-26,Arjun Nair,Gurugram,North,Clothing,Jeans,4,2610.0,10.61,10078.9,3877.54,Offline
+ORD10434,2025-08-30,Rahul Singh,Indore,Central,Clothing,Jacket,1,5770.0,8.21,5296.28,2122.78,Offline
+ORD10435,2025-12-03,Rohit Yadav,Ahmedabad,West,Furniture,Study Table,2,5460.0,12.58,10309.97,2408.25,Offline
+ORD10436,2025-09-17,Arjun Nair,Jaipur,North,Clothing,Jacket,2,3310.0,10.34,5935.49,2294.49,Online
+ORD10437,2025-05-23,Kavya Singh,Bhubaneswar,East,Clothing,Shoes,2,3970.0,5.92,7096.45,2947.8,Online
+ORD10438,2025-04-23,Rahul Singh,Jaipur,North,Electronics,Smartphone,5,55270.0,10.73,234362.76,29587.41,Offline
+ORD10439,2025-08-05,Vikram Mehta,Bhubaneswar,East,Home Appliances,Microwave,3,20300.0,5.75,57398.25,12332.25,Offline
+ORD10440,2025-05-06,Pooja Shah,Pune,West,Home Appliances,Microwave,1,17800.0,10.81,15082.03,2568.63,Online
+ORD10441,2025-09-07,Aarav Sharma,Jaipur,North,Clothing,Jeans,3,3480.0,14.43,8933.51,3191.51,Offline
+ORD10442,2025-07-18,Aarav Sharma,Bhopal,Central,Electronics,Laptop,2,47860.0,12.94,83333.83,8672.23,Online
+ORD10443,2025-12-26,Pooja Shah,Pune,West,Electronics,Tablet,1,23290.0,4.67,23978.55,4359.05,Online
+ORD10444,2025-11-26,Vikram Mehta,Gurugram,North,Furniture,Bookshelf,1,13050.0,4.15,13509.1,4066.12,Offline
+ORD10445,2025-09-25,Neha Gupta,Hyderabad,South,Furniture,Study Table,1,13730.0,0.33,13684.69,4485.59,Online
+ORD10446,2025-02-20,Riya Kapoor,Hyderabad,South,Furniture,Sofa,3,67290.0,8.55,184610.12,49357.21,Online
+ORD10447,2025-01-18,Shreya Das,Bengaluru,South,Clothing,Jeans,1,1270.0,9.89,1144.4,445.9,Online
+ORD10448,2025-10-02,Karan Malhotra,Hyderabad,South,Grocery,Tea,9,240.0,2.67,2270.51,357.62,Online
+ORD10449,2025-05-31,Simran Kaur,Surat,West,Grocery,Cooking Oil,6,1520.0,7.43,8020.26,915.78,Online
+ORD10450,2025-08-11,Pooja Shah,Lucknow,North,Furniture,Study Table,1,8490.0,2.91,8242.94,2554.64,Online
+ORD10451,2025-02-03,Aditya Mishra,Bhopal,Central,Clothing,Jacket,5,2580.0,7.39,11946.69,4851.69,Online
+ORD10452,2025-12-24,Riya Kapoor,Gurugram,North,Grocery,Rice,1,1750.0,14.61,1613.87,64.07,Offline
+ORD10453,2025-03-16,Shreya Das,Jaipur,North,Electronics,Headphones,3,2710.0,10.55,7272.28,930.88,Offline
+ORD10454,2025-07-09,Aarav Sharma,Ahmedabad,West,Home Appliances,Microwave,3,21840.0,16.41,54768.17,6283.37,Online
+ORD10455,2025-11-10,Amit Kumar,Indore,Central,Home Appliances,Washing Machine,3,36560.0,12.74,103363.31,15707.05,Online
+ORD10456,2025-06-20,Vikram Mehta,Ahmedabad,West,Home Appliances,Microwave,5,15300.0,8.16,70257.6,13647.6,Offline
+ORD10457,2025-12-18,Sneha Patel,Surat,West,Grocery,Cooking Oil,5,1180.0,16.28,5334.64,109.6,Offline
+ORD10458,2025-10-13,Aarav Sharma,Bengaluru,South,Home Appliances,Mixer Grinder,2,3220.0,13.53,6014.16,867.31,Online
+ORD10459,2025-01-19,Riya Kapoor,Mumbai,West,Home Appliances,Washing Machine,1,58780.0,3.09,56963.7,13466.5,Online
+ORD10460,2025-01-28,Aarav Sharma,Gurugram,North,Furniture,Bookshelf,2,8980.0,8.59,16417.24,4384.04,Online
+ORD10461,2025-08-31,Nitin Joshi,Pune,West,Clothing,Shoes,5,4850.0,7.02,22547.65,9210.15,Offline
+ORD10462,2025-03-05,Pooja Shah,Gurugram,North,Electronics,Laptop,4,74730.0,9.12,271658.5,38500.9,Offline
+ORD10463,2025-06-09,Aditya Mishra,Bhubaneswar,East,Grocery,Cooking Oil,1,2000.0,11.25,1775.0,135.0,Online
+ORD10464,2025-08-03,Aarav Sharma,Indore,Central,Home Appliances,Microwave,1,8940.0,14.49,7644.59,1028.99,Online
+ORD10465,2025-06-20,Simran Kaur,Ahmedabad,West,Clothing,Jacket,3,5190.0,11.06,13847.96,5284.46,Online
+ORD10466,2025-05-07,Amit Kumar,Gurugram,North,Home Appliances,Microwave,1,8160.0,8.82,7068.27,1331.79,Online
+ORD10467,2025-07-18,Kavya Singh,Bengaluru,South,Grocery,Cooking Oil,10,390.0,13.58,3370.38,172.38,Online
+ORD10468,2025-04-10,Simran Kaur,Chennai,South,Clothing,Shoes,2,7140.0,8.83,12368.12,4906.82,Online
+ORD10469,2025-06-11,Rahul Singh,Bhopal,Central,Grocery,Coffee,9,180.0,12.53,1417.01,88.61,Online
+ORD10470,2025-01-27,Vikram Mehta,Pune,West,Home Appliances,Microwave,3,14610.0,9.17,39810.79,7376.59,Online
+ORD10471,2025-08-09,Aditya Mishra,Bengaluru,South,Home Appliances,Microwave,3,8420.0,15.06,21455.84,2763.44,Online
+ORD10472,2025-04-29,Rohit Yadav,Mumbai,West,Furniture,Bookshelf,2,6400.0,10.34,10902.66,2755.46,Online
+ORD10473,2025-05-30,Riya Kapoor,Delhi,North,Electronics,Smartphone,5,29530.0,7.79,129340.66,19932.01,Offline
+ORD10474,2025-05-27,Karan Malhotra,Surat,West,Electronics,Laptop,4,53870.0,4.95,194573.05,34902.37,Offline
+ORD10475,2025-02-21,Manish Agarwal,Delhi,North,Electronics,Headphones,3,9680.0,10.51,25987.9,3336.7,Online
+ORD10476,2025-03-26,Meera Iyer,Noida,North,Electronics,Tablet,3,19080.0,8.03,52643.63,7996.43,Online
+ORD10477,2025-08-25,Anjali Rao,Surat,West,Electronics,Headphones,2,8510.0,15.43,14393.81,1118.21,Offline
+ORD10478,2025-11-19,Shreya Das,Bhubaneswar,East,Furniture,Study Table,3,15880.0,12.52,45009.51,10537.21,Offline
+ORD10479,2025-12-14,Meera Iyer,Chennai,South,Grocery,Tea,8,1030.0,11.05,7915.84,618.49,Online
+ORD10480,2025-06-20,Riya Kapoor,Hyderabad,South,Furniture,Study Table,2,19740.0,8.76,36021.55,9569.95,Online
+ORD10481,2025-07-14,Riya Kapoor,Kolkata,East,Electronics,Tablet,5,42200.0,12.44,184751.6,20171.6,Offline
+ORD10482,2025-11-17,Riya Kapoor,Indore,Central,Furniture,Office Chair,3,9280.0,6.08,28239.11,8094.09,Offline
+ORD10483,2025-10-19,Amit Kumar,Mumbai,West,Clothing,Shoes,6,5050.0,1.96,32082.61,14084.41,Online
+ORD10484,2025-04-29,Riya Kapoor,Bhubaneswar,East,Grocery,Tea,9,270.0,4.98,2193.54,300.57,Online
+ORD10485,2025-12-28,Anjali Rao,Mumbai,West,Home Appliances,Mixer Grinder,2,3290.0,10.33,6372.31,1113.57,Online
+ORD10486,2025-06-19,Priya Verma,Bengaluru,South,Home Appliances,Refrigerator,3,27010.0,18.49,66047.55,6085.35,Online
+ORD10487,2025-09-13,Nitin Joshi,Mumbai,West,Home Appliances,Washing Machine,4,42000.0,14.33,143925.6,19605.6,Online
+ORD10488,2025-07-08,Sneha Patel,Kolkata,East,Furniture,Sofa,2,63020.0,10.62,112654.55,28207.75,Offline
+ORD10489,2025-08-16,Aarav Sharma,Chennai,South,Clothing,Shoes,5,2180.0,8.83,9937.53,3942.53,Offline
+ORD10490,2025-10-27,Vikram Mehta,Gurugram,North,Home Appliances,Microwave,2,18780.0,8.86,36970.76,6952.81,Offline
+ORD10491,2025-08-17,Arjun Nair,Hyderabad,South,Electronics,Headphones,5,7640.0,9.83,34444.94,4648.94,Offline
+ORD10492,2025-04-10,Shreya Das,Hyderabad,South,Electronics,Laptop,3,48750.0,9.18,126183.04,17811.79,Online
+ORD10493,2025-12-26,Vikram Mehta,Gurugram,North,Electronics,Laptop,1,73400.0,15.57,66929.35,5097.19,Online
+ORD10494,2025-04-20,Neha Gupta,Gurugram,North,Furniture,Study Table,1,6930.0,3.33,6364.27,1953.32,Offline
+ORD10495,2025-02-28,Meera Iyer,Bhopal,Central,Grocery,Coffee,7,770.0,14.46,4610.61,190.81,Offline
+ORD10496,2025-06-23,Nitin Joshi,Mumbai,West,Home Appliances,Washing Machine,3,53180.0,8.42,146106.73,28047.13,Online
+ORD10497,2025-05-08,Priya Verma,Mumbai,West,Electronics,Smartphone,2,13530.0,5.19,24372.81,4321.35,Offline
+ORD10498,2025-08-16,Sneha Patel,Indore,Central,Furniture,Office Chair,1,11280.0,7.46,10438.51,2880.91,Offline
+ORD10499,2025-04-16,Rahul Singh,Lucknow,North,Grocery,Tea,3,1040.0,9.46,2683.61,253.13,Online
+ORD10500,2025-04-10,Simran Kaur,Lucknow,North,Electronics,Headphones,1,14050.0,15.34,11299.99,888.94,Online
+ORD10501,2025-07-06,Arjun Nair,Bhopal,Central,Clothing,Jacket,5,3830.0,7.19,17773.12,7240.62,Online
+ORD10502,2025-05-09,Priya Verma,Bhopal,Central,Clothing,T-Shirt,4,1030.0,16.01,3287.37,1134.67,Online
+ORD10503,2025-03-08,Shreya Das,Pune,West,Furniture,Sofa,3,65810.0,7.59,182445.06,50166.96,Online
+ORD10504,2025-01-14,Nitin Joshi,Jaipur,North,Furniture,Office Chair,2,11280.0,15.78,19000.03,3884.83,Offline
+ORD10505,2025-04-14,Arjun Nair,Mumbai,West,Electronics,Headphones,3,12330.0,8.82,32041.11,4631.52,Offline
+ORD10506,2025-12-07,Kavya Singh,Indore,Central,Furniture,Bookshelf,1,5260.0,19.13,4594.06,787.93,Online
+ORD10507,2025-02-02,Aarav Sharma,Lucknow,North,Electronics,Tablet,5,26980.0,13.29,116971.79,11749.79,Online
+ORD10508,2025-04-11,Riya Kapoor,Pune,West,Grocery,Coffee,7,430.0,9.04,2601.0,256.21,Online
+ORD10509,2025-03-28,Manish Agarwal,Ahmedabad,West,Clothing,Jacket,3,2810.0,17.0,6996.9,2360.4,Online
+ORD10510,2025-01-05,Riya Kapoor,Mumbai,West,Home Appliances,Mixer Grinder,1,6340.0,10.68,5662.89,971.29,Online
+ORD10511,2025-09-14,Amit Kumar,Noida,North,Furniture,Study Table,2,12040.0,5.42,22774.86,6641.26,Offline
+ORD10512,2025-12-22,Priya Verma,Delhi,North,Grocery,Rice,2,590.0,8.81,1162.13,117.12,Online
+ORD10513,2025-10-15,Aditya Mishra,Delhi,North,Clothing,Jacket,1,2970.0,4.54,3061.97,1297.79,Online
+ORD10514,2025-03-17,Karan Malhotra,Kolkata,East,Furniture,Study Table,2,7490.0,5.02,14228.0,4191.4,Offline
+ORD10515,2025-07-24,Priya Verma,Mumbai,West,Home Appliances,Refrigerator,1,62260.0,13.88,53618.31,7545.91,Online
+ORD10516,2025-07-23,Nitin Joshi,Bhopal,Central,Home Appliances,Mixer Grinder,1,3500.0,11.03,3113.95,523.95,Online
+ORD10517,2025-02-19,Rahul Singh,Chennai,South,Home Appliances,Microwave,4,15450.0,6.82,57585.24,11853.24,Online
+ORD10518,2025-04-28,Neha Gupta,Gurugram,North,Furniture,Sofa,2,43370.0,11.94,72564.08,17354.07,Online
+ORD10519,2025-07-13,Rohit Yadav,Chennai,South,Furniture,Office Chair,3,5950.0,6.92,16614.78,4655.28,Offline
+ORD10520,2025-09-07,Simran Kaur,Bhubaneswar,East,Furniture,Study Table,3,9490.0,11.11,25306.98,6232.08,Offline
+ORD10521,2025-08-16,Amit Kumar,Lucknow,North,Home Appliances,Refrigerator,4,68990.0,11.12,245273.25,41062.85,Online
+ORD10522,2025-06-22,Rohit Yadav,Surat,West,Home Appliances,Refrigerator,1,41750.0,13.68,36038.6,5143.6,Online
+ORD10523,2025-03-29,Arjun Nair,Indore,Central,Electronics,Laptop,1,50530.0,0.0,50530.0,11116.6,Online
+ORD10524,2025-06-03,Aarav Sharma,Delhi,North,Clothing,Jeans,3,3090.0,11.99,8158.53,3060.03,Online
+ORD10525,2025-03-09,Arjun Nair,Noida,North,Grocery,Cooking Oil,4,540.0,15.72,1820.45,49.25,Online
+ORD10526,2025-01-22,Kavya Singh,Bhopal,Central,Electronics,Headphones,3,10000.0,15.43,25371.0,1971.0,Online
+ORD10527,2025-12-24,Priya Verma,Hyderabad,South,Grocery,Coffee,3,220.0,13.44,617.0,32.5,Offline
+ORD10528,2025-04-02,Kavya Singh,Delhi,North,Grocery,Tea,10,1130.0,10.07,9653.99,851.29,Online
+ORD10529,2025-01-31,Rahul Singh,Indore,Central,Clothing,Shoes,3,4340.0,9.61,11768.78,4607.78,Offline
+ORD10530,2025-03-06,Aarav Sharma,Kolkata,East,Furniture,Sofa,3,52430.0,2.11,153971.18,48586.88,Online
+ORD10531,2025-06-23,Amit Kumar,Noida,North,Furniture,Study Table,2,24350.0,6.83,45373.79,12744.79,Online
+ORD10532,2025-06-20,Rohit Yadav,Hyderabad,South,Furniture,Office Chair,3,15150.0,8.65,41518.57,11067.07,Online
+ORD10533,2025-04-03,Sneha Patel,Gurugram,North,Grocery,Cooking Oil,1,1100.0,4.29,1000.17,143.27,Online
+ORD10534,2025-07-20,Sneha Patel,Delhi,North,Clothing,T-Shirt,4,1880.0,2.8,7309.44,3173.44,Online
+ORD10535,2025-05-26,Kavya Singh,Bhubaneswar,East,Clothing,T-Shirt,5,2090.0,7.07,9225.63,3765.5,Online
+ORD10536,2025-04-27,Aditya Mishra,Delhi,North,Furniture,Office Chair,3,18280.0,3.47,50290.2,15384.54,Offline
+ORD10537,2025-05-10,Anjali Rao,Lucknow,North,Clothing,Jacket,1,5330.0,9.4,4587.53,1802.61,Offline
+ORD10538,2025-08-21,Simran Kaur,Bengaluru,South,Home Appliances,Microwave,4,19720.0,3.58,76056.1,17684.9,Online
+ORD10539,2025-06-26,Neha Gupta,Pune,West,Furniture,Office Chair,1,15550.0,11.05,13831.72,3413.23,Offline
+ORD10540,2025-09-29,Aditya Mishra,Delhi,North,Grocery,Tea,8,860.0,7.15,6388.08,746.48,Online
+ORD10541,2025-07-04,Rohit Yadav,Chennai,South,Clothing,T-Shirt,2,1050.0,6.38,1966.02,811.02,Online
+ORD10542,2025-05-12,Neha Gupta,Noida,North,Home Appliances,Mixer Grinder,3,6030.0,8.93,15650.83,2933.56,Online
+ORD10543,2025-05-11,Priya Verma,Bengaluru,South,Grocery,Tea,6,160.0,8.0,839.04,91.2,Offline
+ORD10544,2025-12-05,Aditya Mishra,Ahmedabad,West,Home Appliances,Refrigerator,2,59820.0,10.81,115243.47,19627.18,Offline
+ORD10545,2025-12-26,Nitin Joshi,Pune,West,Home Appliances,Mixer Grinder,4,6270.0,9.08,24626.95,4583.02,Offline
+ORD10546,2025-03-01,Amit Kumar,Bhopal,Central,Home Appliances,Mixer Grinder,1,5520.0,9.22,5011.06,926.26,Offline
+ORD10547,2025-07-01,Pooja Shah,Jaipur,North,Clothing,T-Shirt,4,1900.0,7.73,7012.52,2832.52,Online
+ORD10548,2025-07-20,Kavya Singh,Surat,West,Grocery,Rice,9,1780.0,6.94,14908.21,1771.81,Online
+ORD10549,2025-03-31,Rohit Yadav,Pune,West,Clothing,Jacket,5,3850.0,11.32,17070.9,6483.4,Online
+ORD10550,2025-01-22,Priya Verma,Bhopal,Central,Furniture,Office Chair,3,11240.0,8.21,30951.59,8359.19,Online
+ORD10551,2025-06-06,Meera Iyer,Ahmedabad,West,Electronics,Laptop,1,57770.0,0.81,57302.06,12241.46,Online
+ORD10552,2025-12-17,Sneha Patel,Jaipur,North,Clothing,Jacket,4,3230.0,8.74,12734.06,5059.58,Online
+ORD10553,2025-05-17,Meera Iyer,Ahmedabad,West,Home Appliances,Mixer Grinder,4,5360.0,8.52,18632.65,3560.33,Online
+ORD10554,2025-11-03,Aditya Mishra,Noida,North,Grocery,Tea,3,570.0,13.33,1600.62,86.25,Online
+ORD10555,2025-09-15,Neha Gupta,Bengaluru,South,Home Appliances,Mixer Grinder,1,2240.0,16.03,1880.93,223.33,Online
+ORD10556,2025-05-27,Manish Agarwal,Bengaluru,South,Grocery,Coffee,6,1490.0,19.94,6799.5,-164.76,Offline
+ORD10557,2025-10-26,Kavya Singh,Mumbai,West,Electronics,Laptop,3,81620.0,7.67,244165.58,37895.51,Online
+ORD10558,2025-10-07,Kavya Singh,Noida,North,Electronics,Laptop,3,88710.0,13.02,249998.26,25810.35,Online
+ORD10559,2025-07-20,Riya Kapoor,Hyderabad,South,Electronics,Laptop,3,67920.0,12.95,177373.08,18440.28,Online
+ORD10560,2025-11-27,Meera Iyer,Delhi,North,Home Appliances,Refrigerator,4,23690.0,2.74,99536.66,23804.47,Online
+ORD10561,2025-10-14,Priya Verma,Ahmedabad,West,Furniture,Bookshelf,2,7490.0,1.98,15858.07,5018.54,Online
+ORD10562,2025-08-01,Amit Kumar,Mumbai,West,Furniture,Bookshelf,3,6260.0,1.6,18479.52,5896.92,Offline
+ORD10563,2025-05-11,Simran Kaur,Bengaluru,South,Furniture,Sofa,1,30080.0,10.25,25646.96,6501.04,Offline
+ORD10564,2025-11-03,Amit Kumar,Ahmedabad,West,Electronics,Smartphone,5,14220.0,7.29,71190.15,11295.51,Online
+ORD10565,2025-08-07,Manish Agarwal,Gurugram,North,Electronics,Smartphone,1,48460.0,15.13,41128.0,3329.2,Online
+ORD10566,2025-03-03,Rahul Singh,Jaipur,North,Home Appliances,Mixer Grinder,3,5350.0,8.3,14717.85,2840.85,Online
+ORD10567,2025-02-03,Kavya Singh,Bhubaneswar,East,Furniture,Office Chair,1,9540.0,15.56,8055.58,1663.78,Online
+ORD10568,2025-12-25,Manish Agarwal,Ahmedabad,West,Furniture,Bookshelf,3,2510.0,12.49,7116.66,1667.96,Online
+ORD10569,2025-06-12,Karan Malhotra,Lucknow,North,Furniture,Sofa,3,60380.0,18.59,147466.07,26102.27,Online
+ORD10570,2025-05-03,Vikram Mehta,Hyderabad,South,Furniture,Sofa,1,53960.0,0.8,50851.9,16506.36,Online
+ORD10571,2025-06-16,Anjali Rao,Hyderabad,South,Electronics,Laptop,3,60640.0,13.78,156851.42,14953.82,Online
+ORD10572,2025-01-30,Shreya Das,Pune,West,Home Appliances,Microwave,1,12860.0,8.46,11772.04,2255.64,Online
+ORD10573,2025-12-04,Aditya Mishra,Delhi,North,Furniture,Study Table,2,14810.0,11.4,28342.79,6909.75,Offline
+ORD10574,2025-06-26,Priya Verma,Surat,West,Grocery,Coffee,5,340.0,12.45,1488.35,94.35,Offline
+ORD10575,2025-08-08,Arjun Nair,Bhopal,Central,Home Appliances,Refrigerator,1,59090.0,7.35,54746.88,11020.29,Online
+ORD10576,2025-03-15,Neha Gupta,Delhi,North,Furniture,Study Table,1,16030.0,5.73,15111.48,4371.38,Online
+ORD10577,2025-06-18,Rohit Yadav,Bengaluru,South,Furniture,Office Chair,2,13960.0,16.06,23436.05,4729.65,Online
+ORD10578,2025-10-28,Amit Kumar,Pune,West,Home Appliances,Washing Machine,5,56380.0,11.9,268222.21,42927.73,Offline
+ORD10579,2025-03-28,Neha Gupta,Bhopal,Central,Grocery,Tea,2,1030.0,14.48,1761.71,72.51,Online
+ORD10580,2025-10-26,Nitin Joshi,Noida,North,Furniture,Sofa,3,54190.0,15.94,147588.85,29953.2,Online
+ORD10581,2025-04-21,Riya Kapoor,Ahmedabad,West,Clothing,Jacket,1,3920.0,20.95,2943.82,895.62,Offline
+ORD10582,2025-02-26,Rahul Singh,Jaipur,North,Electronics,Headphones,1,2660.0,11.52,2353.57,278.77,Offline
+ORD10583,2025-08-14,Manish Agarwal,Gurugram,North,Electronics,Headphones,5,4160.0,7.03,19337.76,3113.76,Online
+ORD10584,2025-06-24,Neha Gupta,Bengaluru,South,Furniture,Study Table,2,17740.0,11.03,31566.56,7794.96,Online
+ORD10585,2025-12-27,Priya Verma,Bhopal,Central,Electronics,Headphones,1,10000.0,14.83,9198.36,774.36,Offline
+ORD10586,2025-10-25,Arjun Nair,Bengaluru,South,Grocery,Coffee,6,650.0,8.21,3866.19,412.35,Online
+ORD10587,2025-09-30,Amit Kumar,Gurugram,North,Electronics,Laptop,1,68890.0,7.1,63998.81,10264.61,Online
+ORD10588,2025-05-13,Anjali Rao,Lucknow,North,Clothing,Jacket,6,3230.0,1.88,18064.87,7938.82,Online
+ORD10589,2025-06-03,Kavya Singh,Pune,West,Clothing,Jacket,5,3530.0,10.92,15722.62,6015.12,Online
+ORD10590,2025-12-14,Arjun Nair,Jaipur,North,Furniture,Study Table,1,10720.0,9.75,10448.78,2691.79,Online
+ORD10591,2025-01-08,Nitin Joshi,Pune,West,Clothing,Jeans,4,2140.0,8.5,7832.4,3124.4,Online
+ORD10592,2025-02-19,Simran Kaur,Mumbai,West,Grocery,Coffee,9,330.0,12.92,2586.28,150.88,Offline
+ORD10593,2025-10-03,Shreya Das,Bhubaneswar,East,Electronics,Headphones,3,990.0,10.36,2875.29,373.36,Offline
+ORD10594,2025-07-05,Arjun Nair,Delhi,North,Grocery,Cooking Oil,3,810.0,12.3,2131.11,138.51,Offline
+ORD10595,2025-01-26,Rahul Singh,Chennai,South,Home Appliances,Mixer Grinder,3,5670.0,21.85,13293.32,705.91,Offline
+ORD10596,2025-06-16,Rohit Yadav,Delhi,North,Grocery,Tea,10,880.0,14.74,7502.88,286.88,Online
+ORD10597,2025-07-03,Priya Verma,Lucknow,North,Furniture,Office Chair,1,17030.0,10.74,15200.98,3790.88,Online
+ORD10598,2025-05-13,Aditya Mishra,Surat,West,Home Appliances,Washing Machine,4,44140.0,10.47,150170.46,26048.78,Online
+ORD10599,2025-01-03,Riya Kapoor,Ahmedabad,West,Furniture,Sofa,1,57360.0,8.27,52616.33,14185.13,Online
+ORD10600,2025-12-22,Arjun Nair,Surat,West,Electronics,Headphones,5,11460.0,10.71,55256.22,6986.7,Offline
+ORD10601,2025-02-23,Riya Kapoor,Ahmedabad,West,Furniture,Sofa,1,26850.0,6.16,25196.04,7206.54,Offline
+ORD10602,2025-07-29,Amit Kumar,Gurugram,North,Grocery,Rice,2,520.0,10.42,931.63,78.83,Online
+ORD10603,2025-04-05,Riya Kapoor,Gurugram,North,Grocery,Tea,3,1030.0,3.07,2845.38,438.27,Online
+ORD10604,2025-09-18,Kavya Singh,Bhubaneswar,East,Furniture,Office Chair,2,5450.0,14.28,9343.48,2040.48,Offline
+ORD10605,2025-07-07,Rohit Yadav,Hyderabad,South,Furniture,Office Chair,3,7740.0,17.38,19184.36,3626.96,Online
+ORD10606,2025-12-21,Amit Kumar,Bengaluru,South,Furniture,Office Chair,1,16890.0,7.48,16876.76,4655.15,Online
+ORD10607,2025-05-17,Anjali Rao,Noida,North,Home Appliances,Washing Machine,2,29820.0,5.77,53388.83,11461.91,Online
+ORD10608,2025-08-18,Aditya Mishra,Noida,North,Electronics,Laptop,3,53340.0,5.51,151202.9,26387.3,Online
+ORD10609,2025-02-14,Amit Kumar,Hyderabad,South,Home Appliances,Mixer Grinder,4,7470.0,12.4,26174.88,4063.68,Online
+ORD10610,2025-10-29,Anjali Rao,Gurugram,North,Electronics,Laptop,2,88330.0,12.5,166943.7,18125.32,Offline
+ORD10611,2025-06-06,Vikram Mehta,Delhi,North,Electronics,Smartphone,1,59000.0,13.93,50781.3,4761.3,Online
+ORD10612,2025-12-18,Simran Kaur,Bhubaneswar,East,Electronics,Laptop,2,82320.0,1.57,175019.56,36326.83,Online
+ORD10613,2025-09-01,Kavya Singh,Ahmedabad,West,Grocery,Tea,10,1090.0,15.72,9186.52,248.52,Online
+ORD10614,2025-08-04,Aarav Sharma,Kolkata,East,Clothing,T-Shirt,4,1250.0,9.13,4543.5,1793.5,Online
+ORD10615,2025-03-07,Aarav Sharma,Surat,West,Grocery,Coffee,2,700.0,14.34,1199.24,51.24,Online
+ORD10616,2025-09-10,Rohit Yadav,Bhubaneswar,East,Home Appliances,Microwave,2,11670.0,17.73,19201.82,1930.22,Online
+ORD10617,2025-07-31,Arjun Nair,Chennai,South,Grocery,Cooking Oil,10,360.0,8.53,3292.92,340.92,Online
+ORD10618,2025-07-23,Manish Agarwal,Pune,West,Furniture,Office Chair,3,12410.0,12.19,32691.66,7747.56,Online
+ORD10619,2025-01-31,Priya Verma,Ahmedabad,West,Home Appliances,Washing Machine,3,23860.0,8.47,65517.17,12547.97,Online
+ORD10620,2025-06-20,Aditya Mishra,Indore,Central,Home Appliances,Mixer Grinder,2,2330.0,8.87,4246.66,798.26,Online
+ORD10621,2025-03-23,Priya Verma,Jaipur,North,Clothing,Jeans,4,1550.0,16.33,5187.54,1777.54,Online
+ORD10622,2025-01-21,Aarav Sharma,Pune,West,Clothing,T-Shirt,5,520.0,9.11,2363.14,933.14,Offline
+ORD10623,2025-06-11,Shreya Das,Ahmedabad,West,Home Appliances,Microwave,4,16030.0,13.74,55309.91,7861.11,Online
+ORD10624,2025-06-08,Aditya Mishra,Indore,Central,Furniture,Office Chair,1,11710.0,12.77,10214.63,2368.93,Offline
+ORD10625,2025-04-26,Arjun Nair,Bhopal,Central,Grocery,Cooking Oil,8,560.0,15.65,3589.94,100.02,Offline
+ORD10626,2025-03-28,Pooja Shah,Surat,West,Grocery,Coffee,1,590.0,18.45,481.14,-2.65,Online
+ORD10627,2025-02-24,Aditya Mishra,Ahmedabad,West,Grocery,Tea,6,280.0,12.83,1464.46,86.86,Offline
+ORD10628,2025-09-05,Aarav Sharma,Lucknow,North,Clothing,T-Shirt,3,450.0,14.26,1157.49,414.99,Online
+ORD10629,2025-01-23,Anjali Rao,Indore,Central,Electronics,Headphones,2,4610.0,17.17,7636.93,445.33,Offline
+ORD10630,2025-12-18,Vikram Mehta,Bhubaneswar,East,Furniture,Office Chair,1,7790.0,12.37,7372.49,1735.64,Online
+ORD10631,2025-08-28,Rohit Yadav,Bhubaneswar,East,Electronics,Smartphone,4,18990.0,5.9,71478.36,12229.56,Offline
+ORD10632,2025-01-18,Neha Gupta,Hyderabad,South,Clothing,Jacket,5,3900.0,16.56,16270.8,5545.8,Offline
+ORD10633,2025-01-26,Neha Gupta,Bhopal,Central,Grocery,Tea,3,500.0,11.1,1333.5,103.5,Online
+ORD10634,2025-06-27,Simran Kaur,Gurugram,North,Electronics,Tablet,3,21010.0,16.62,52554.41,3391.01,Online
+ORD10635,2025-03-16,Simran Kaur,Surat,West,Electronics,Smartphone,1,14830.0,0.0,14830.0,3262.6,Online
+ORD10636,2025-09-14,Shreya Das,Bengaluru,South,Furniture,Office Chair,1,10000.0,16.32,8368.0,1668.0,Offline
+ORD10637,2025-12-16,Simran Kaur,Gurugram,North,Home Appliances,Microwave,4,8720.0,12.77,32859.89,4983.79,Offline
+ORD10638,2025-11-01,Anjali Rao,Gurugram,North,Clothing,Shoes,5,8470.0,10.32,41017.84,15861.94,Offline
+ORD10639,2025-03-03,Sneha Patel,Pune,West,Clothing,Jacket,4,5240.0,14.17,17989.97,6461.97,Offline
+ORD10640,2025-04-08,Rahul Singh,Noida,North,Clothing,Shoes,4,3300.0,15.07,10650.22,3753.22,Online
+ORD10641,2025-04-22,Nitin Joshi,Hyderabad,South,Furniture,Sofa,3,69240.0,13.54,170614.98,38401.2,Offline
+ORD10642,2025-04-03,Vikram Mehta,Kolkata,East,Furniture,Office Chair,2,14400.0,13.7,23611.68,5280.48,Online
+ORD10643,2025-07-13,Arjun Nair,Noida,North,Furniture,Study Table,3,24500.0,6.6,68649.0,19404.0,Online
+ORD10644,2025-12-20,Kavya Singh,Ahmedabad,West,Clothing,Jacket,5,5440.0,5.37,27798.51,11641.71,Online
+ORD10645,2025-07-08,Manish Agarwal,Bhopal,Central,Furniture,Office Chair,1,17240.0,3.21,16686.6,5135.8,Online
+ORD10646,2025-12-21,Nitin Joshi,Bhopal,Central,Electronics,Smartphone,4,36030.0,15.56,131430.52,10023.83,Online
+ORD10647,2025-11-21,Simran Kaur,Bengaluru,South,Furniture,Office Chair,3,19160.0,8.83,56596.88,15004.35,Online
+ORD10648,2025-11-12,Aditya Mishra,Noida,North,Grocery,Coffee,6,1770.0,8.08,10542.86,1137.78,Online
+ORD10649,2025-06-19,Neha Gupta,Chennai,South,Home Appliances,Microwave,5,14870.0,10.4,66617.6,11598.6,Online
+ORD10650,2025-04-14,Karan Malhotra,Hyderabad,South,Home Appliances,Washing Machine,5,35750.0,13.28,147261.4,21600.15,Offline
+ORD10651,2025-12-24,Sneha Patel,Jaipur,North,Grocery,Coffee,3,760.0,5.47,2327.71,308.54,Offline
+ORD10652,2025-03-10,Pooja Shah,Delhi,North,Furniture,Bookshelf,2,5360.0,10.33,9612.62,2430.22,Online
+ORD10653,2025-08-19,Riya Kapoor,Jaipur,North,Home Appliances,Mixer Grinder,1,4550.0,16.1,3817.45,450.45,Online
+ORD10654,2025-03-27,Arjun Nair,Jaipur,North,Furniture,Sofa,2,61500.0,7.58,113676.6,31266.6,Online
+ORD10655,2025-09-14,Nitin Joshi,Pune,West,Home Appliances,Refrigerator,1,28940.0,19.21,23380.63,1965.03,Online
+ORD10656,2025-10-24,Shreya Das,Noida,North,Electronics,Headphones,1,8920.0,13.87,8297.42,783.21,Online
+ORD10657,2025-03-20,Simran Kaur,Surat,West,Electronics,Headphones,4,11500.0,8.42,42126.8,6246.8,Online
+ORD10658,2025-10-08,Neha Gupta,Gurugram,North,Electronics,Smartphone,2,32100.0,12.44,60710.6,6628.52,Online
+ORD10659,2025-04-19,Amit Kumar,Delhi,North,Clothing,Jacket,4,2720.0,10.04,9298.27,3613.47,Online
+ORD10660,2025-07-09,Meera Iyer,Ahmedabad,West,Furniture,Study Table,1,19790.0,10.49,17714.03,4454.73,Offline
+ORD10661,2025-02-27,Simran Kaur,Chennai,South,Clothing,Jeans,2,3110.0,8.99,5660.82,2239.82,Online
+ORD10662,2025-11-08,Karan Malhotra,Lucknow,North,Furniture,Office Chair,3,14180.0,9.71,41482.12,10700.17,Online
+ORD10663,2025-02-06,Nitin Joshi,Indore,Central,Furniture,Study Table,3,9610.0,10.83,25707.71,6391.61,Online
+ORD10664,2025-12-26,Nitin Joshi,Surat,West,Home Appliances,Microwave,3,9340.0,7.32,28046.45,5652.87,Online
+ORD10665,2025-12-06,Simran Kaur,Bengaluru,South,Electronics,Headphones,1,1950.0,8.62,1924.46,281.78,Online
+ORD10666,2025-05-05,Rohit Yadav,Hyderabad,South,Home Appliances,Microwave,3,18740.0,14.62,45600.6,6077.94,Offline
+ORD10667,2025-10-05,Simran Kaur,Bhubaneswar,East,Home Appliances,Microwave,5,15940.0,9.52,77881.56,14185.32,Online
+ORD10668,2025-01-29,Rohit Yadav,Delhi,North,Home Appliances,Microwave,1,19560.0,18.96,15851.42,1377.02,Offline
+ORD10669,2025-09-21,Aarav Sharma,Chennai,South,Clothing,Jeans,2,3020.0,13.27,5238.49,1916.49,Offline
+ORD10670,2025-06-17,Neha Gupta,Noida,North,Clothing,Jeans,1,3290.0,8.78,3001.14,1191.64,Online
+ORD10671,2025-11-13,Nitin Joshi,Delhi,North,Clothing,Jacket,4,5370.0,9.55,20982.95,8223.83,Online
+ORD10672,2025-07-05,Arjun Nair,Delhi,North,Furniture,Bookshelf,2,15720.0,7.51,29078.86,8014.06,Online
+ORD10673,2025-02-03,Rahul Singh,Noida,North,Furniture,Study Table,3,9090.0,11.77,24060.32,5789.42,Offline
+ORD10674,2025-03-19,Manish Agarwal,Gurugram,North,Grocery,Rice,4,1450.0,9.9,5225.8,469.8,Offline
+ORD10675,2025-09-06,Neha Gupta,Bengaluru,South,Grocery,Cooking Oil,2,1160.0,9.67,2095.66,193.26,Online
+ORD10676,2025-04-06,Anjali Rao,Indore,Central,Electronics,Tablet,5,37650.0,13.91,153961.2,14467.95,Online
+ORD10677,2025-07-05,Pooja Shah,Hyderabad,South,Electronics,Smartphone,3,61670.0,7.68,170801.23,26493.43,Online
+ORD10678,2025-02-10,Anjali Rao,Delhi,North,Clothing,Jeans,2,1350.0,8.85,2461.05,976.05,Offline
+ORD10679,2025-10-29,Meera Iyer,Ahmedabad,West,Home Appliances,Washing Machine,2,25150.0,7.4,50304.02,10104.26,Online
+ORD10680,2025-12-01,Anjali Rao,Gurugram,North,Clothing,Jeans,5,2800.0,9.76,13644.29,5328.29,Online
+ORD10681,2025-02-15,Anjali Rao,Indore,Central,Grocery,Coffee,6,410.0,9.61,2223.59,206.39,Online
+ORD10682,2025-04-06,Rahul Singh,Lucknow,North,Home Appliances,Microwave,5,21580.0,10.2,92049.49,16195.79,Online
+ORD10683,2025-10-25,Nitin Joshi,Bhopal,Central,Home Appliances,Microwave,3,7890.0,13.54,22102.29,3185.22,Online
+ORD10684,2025-06-07,Meera Iyer,Delhi,North,Clothing,Shoes,1,4210.0,14.66,3592.81,1277.31,Online
+ORD10685,2025-07-31,Shreya Das,Bhopal,Central,Grocery,Tea,1,1080.0,14.93,918.76,33.16,Online
+ORD10686,2025-02-11,Manish Agarwal,Gurugram,North,Grocery,Coffee,10,1440.0,5.54,13602.24,1794.24,Online
+ORD10687,2025-01-20,Rohit Yadav,Kolkata,East,Furniture,Sofa,2,45210.0,12.27,79325.47,18744.07,Online
+ORD10688,2025-08-19,Karan Malhotra,Delhi,North,Clothing,Jeans,2,2100.0,9.89,3784.62,1474.62,Offline
+ORD10689,2025-05-16,Rahul Singh,Hyderabad,South,Electronics,Headphones,1,13000.0,9.95,11121.18,1488.18,Offline
+ORD10690,2025-07-10,Karan Malhotra,Surat,West,Furniture,Study Table,3,8470.0,5.03,24131.88,7107.18,Online
+ORD10691,2025-03-19,Karan Malhotra,Bengaluru,South,Furniture,Bookshelf,3,6780.0,17.63,16754.06,3126.26,Offline
+ORD10692,2025-06-07,Karan Malhotra,Indore,Central,Grocery,Cooking Oil,8,740.0,4.79,5636.43,782.03,Online
+ORD10693,2025-02-14,Rohit Yadav,Jaipur,North,Electronics,Headphones,4,8850.0,8.83,32274.18,4662.18,Offline
+ORD10694,2025-05-16,Manish Agarwal,Bhubaneswar,East,Home Appliances,Mixer Grinder,2,2570.0,11.95,4299.48,686.06,Online
+ORD10695,2025-08-27,Arjun Nair,Chennai,South,Home Appliances,Refrigerator,2,62640.0,10.36,112300.99,19593.79,Online
+ORD10696,2025-11-06,Karan Malhotra,Chennai,South,Electronics,Smartphone,3,34020.0,7.13,102365.77,16390.43,Online
+ORD10697,2025-10-03,Vikram Mehta,Surat,West,Clothing,Shoes,4,4760.0,13.42,17803.62,6493.86,Offline
+ORD10698,2025-11-27,Arjun Nair,Noida,North,Furniture,Bookshelf,1,9840.0,16.4,8884.34,1764.12,Online
+ORD10699,2025-08-30,Rahul Singh,Surat,West,Home Appliances,Washing Machine,4,49160.0,8.28,180358.21,34844.61,Offline
+ORD10700,2025-11-11,Aarav Sharma,Lucknow,North,Electronics,Laptop,5,49890.0,10.74,240471.8,30335.12,Online
+ORD10701,2025-06-28,Kavya Singh,Bhopal,Central,Grocery,Rice,4,620.0,3.21,2400.39,366.79,Online
+ORD10702,2025-04-22,Aditya Mishra,Noida,North,Home Appliances,Microwave,4,10360.0,9.46,35643.79,6511.47,Offline
+ORD10703,2025-02-05,Rahul Singh,Bengaluru,South,Grocery,Cooking Oil,10,1320.0,11.95,11622.6,798.6,Online
+ORD10704,2025-04-08,Sneha Patel,Lucknow,North,Electronics,Tablet,2,26830.0,10.51,45619.32,5857.26,Online
+ORD10705,2025-07-09,Vikram Mehta,Bengaluru,South,Clothing,Jeans,2,1270.0,5.22,2407.41,1010.41,Online
+ORD10706,2025-04-18,Vikram Mehta,Kolkata,East,Clothing,T-Shirt,6,1850.0,6.49,9860.63,4060.88,Online
+ORD10707,2025-05-21,Neha Gupta,Hyderabad,South,Furniture,Sofa,3,23670.0,9.66,60942.91,15745.05,Offline
+ORD10708,2025-12-30,Sneha Patel,Jaipur,North,Electronics,Headphones,5,14790.0,9.39,72366.58,10071.1,Online
+ORD10709,2025-11-24,Neha Gupta,Bhopal,Central,Home Appliances,Mixer Grinder,3,6230.0,11.33,17898.22,2961.17,Online
+ORD10710,2025-11-15,Priya Verma,Bengaluru,South,Grocery,Coffee,6,460.0,11.43,2640.09,195.84,Online
+ORD10711,2025-11-04,Shreya Das,Hyderabad,South,Furniture,Office Chair,1,15050.0,9.3,14742.38,3852.2,Online
+ORD10712,2025-02-12,Amit Kumar,Ahmedabad,West,Clothing,T-Shirt,4,1540.0,5.85,5799.64,2411.64,Offline
+ORD10713,2025-12-17,Anjali Rao,Bengaluru,South,Grocery,Tea,4,1030.0,13.55,3846.68,198.01,Online
+ORD10714,2025-07-14,Sneha Patel,Bengaluru,South,Clothing,Shoes,6,2970.0,13.51,15412.52,5611.52,Online
+ORD10715,2025-07-13,Rohit Yadav,Delhi,North,Home Appliances,Refrigerator,3,53520.0,10.37,143909.93,25095.53,Online
+ORD10716,2025-11-09,Shreya Das,Chennai,South,Home Appliances,Refrigerator,3,27000.0,11.66,77279.83,12544.63,Offline
+ORD10717,2025-11-22,Neha Gupta,Kolkata,East,Grocery,Rice,2,510.0,12.32,965.88,62.57,Offline
+ORD10718,2025-10-04,Simran Kaur,Noida,North,Clothing,T-Shirt,5,820.0,21.29,3485.28,1049.88,Online
+ORD10719,2025-03-04,Pooja Shah,Kolkata,East,Clothing,T-Shirt,3,1100.0,13.87,2842.29,1027.29,Offline
+ORD10720,2025-09-11,Rahul Singh,Pune,West,Electronics,Headphones,3,11680.0,10.13,31490.45,4159.25,Online
+ORD10721,2025-04-25,Pooja Shah,Hyderabad,South,Clothing,Shoes,4,8130.0,4.85,29395.64,12403.94,Offline
+ORD10722,2025-12-15,Riya Kapoor,Mumbai,West,Home Appliances,Microwave,4,7700.0,6.69,31038.64,6423.28,Online
+ORD10723,2025-01-03,Meera Iyer,Ahmedabad,West,Home Appliances,Mixer Grinder,3,3930.0,9.53,10666.41,1941.81,Online
+ORD10724,2025-08-11,Vikram Mehta,Gurugram,North,Home Appliances,Washing Machine,5,54490.0,8.82,248419.91,46806.91,Offline
+ORD10725,2025-10-08,Nitin Joshi,Bengaluru,South,Furniture,Bookshelf,1,5040.0,8.86,4960.93,1313.99,Online
+ORD10726,2025-01-10,Kavya Singh,Lucknow,North,Grocery,Rice,3,990.0,11.0,2643.3,207.9,Online
+ORD10727,2025-07-05,Karan Malhotra,Bhubaneswar,East,Grocery,Rice,1,930.0,8.76,848.53,85.93,Online
+ORD10728,2025-09-13,Riya Kapoor,Chennai,South,Electronics,Headphones,4,14410.0,13.89,49633.8,4674.6,Offline
+ORD10729,2025-08-19,Shreya Das,Chennai,South,Clothing,Jacket,1,3040.0,7.34,2816.86,1144.86,Online
+ORD10730,2025-04-04,Rohit Yadav,Bengaluru,South,Electronics,Smartphone,2,41930.0,17.16,65996.14,3855.88,Online
+ORD10731,2025-12-15,Sneha Patel,Pune,West,Electronics,Laptop,2,55080.0,20.99,94000.41,1201.63,Online
+ORD10732,2025-10-10,Rahul Singh,Gurugram,North,Electronics,Tablet,3,39240.0,8.11,116826.74,17659.41,Online
+ORD10733,2025-09-11,Riya Kapoor,Noida,North,Furniture,Bookshelf,1,7610.0,7.49,7040.01,1941.31,Online
+ORD10734,2025-06-12,Manish Agarwal,Bhopal,Central,Grocery,Rice,5,980.0,13.52,4237.52,219.52,Offline
+ORD10735,2025-09-08,Aarav Sharma,Chennai,South,Home Appliances,Mixer Grinder,4,3080.0,13.61,10643.25,1526.45,Offline
+ORD10736,2025-01-17,Neha Gupta,Kolkata,East,Furniture,Study Table,3,18790.0,12.21,49487.22,11719.32,Offline
+ORD10737,2025-07-07,Meera Iyer,Bengaluru,South,Electronics,Laptop,1,66810.0,13.56,57750.56,5638.76,Online
+ORD10738,2025-11-26,Amit Kumar,Delhi,North,Furniture,Study Table,1,12360.0,5.02,12678.69,3734.99,Online
+ORD10739,2025-06-25,Arjun Nair,Delhi,North,Clothing,Jacket,2,6390.0,7.38,11836.84,4807.84,Online
+ORD10740,2025-05-19,Rahul Singh,Mumbai,West,Clothing,Jacket,2,4750.0,12.31,7914.02,2950.27,Offline
+ORD10741,2025-03-17,Amit Kumar,Pune,West,Electronics,Headphones,4,12730.0,11.28,45176.22,5458.62,Offline
+ORD10742,2025-11-02,Shreya Das,Bengaluru,South,Furniture,Bookshelf,1,13310.0,11.3,12750.45,3119.33,Online
+ORD10743,2025-02-02,Pooja Shah,Chennai,South,Furniture,Sofa,1,51630.0,9.63,46658.03,12065.93,Online
+ORD10744,2025-06-19,Amit Kumar,Ahmedabad,West,Home Appliances,Microwave,3,7390.0,4.22,21234.43,4828.63,Online
+ORD10745,2025-03-02,Sneha Patel,Kolkata,East,Clothing,T-Shirt,6,690.0,8.81,3775.27,1498.27,Online
+ORD10746,2025-10-18,Sneha Patel,Gurugram,North,Clothing,Jeans,5,3290.0,16.03,14918.11,5146.81,Online
+ORD10747,2025-01-03,Kavya Singh,Chennai,South,Home Appliances,Mixer Grinder,2,3350.0,7.98,6165.34,1207.34,Offline
+ORD10748,2025-12-29,Rahul Singh,Kolkata,East,Grocery,Coffee,10,920.0,13.99,8545.95,398.43,Offline
+ORD10749,2025-07-04,Shreya Das,Bhubaneswar,East,Grocery,Coffee,4,1140.0,8.29,4181.98,442.78,Online
+ORD10750,2025-03-30,Kavya Singh,Noida,North,Electronics,Headphones,4,870.0,13.89,2996.63,282.23,Online
+ORD10751,2025-10-20,Priya Verma,Lucknow,North,Electronics,Headphones,3,2210.0,16.2,6000.42,415.3,Offline
+ORD10752,2025-01-01,Amit Kumar,Lucknow,North,Grocery,Rice,7,1350.0,6.76,8811.18,1062.18,Online
+ORD10753,2025-09-26,Anjali Rao,Mumbai,West,Home Appliances,Refrigerator,4,73980.0,12.53,258841.22,39860.42,Online
+ORD10754,2025-10-31,Aarav Sharma,Jaipur,North,Home Appliances,Washing Machine,2,50620.0,2.48,106627.59,25716.58,Online
+ORD10755,2025-03-12,Sneha Patel,Bhopal,Central,Furniture,Sofa,2,65970.0,5.6,124551.36,36151.56,Online
+ORD10756,2025-05-11,Karan Malhotra,Jaipur,North,Electronics,Headphones,5,3390.0,9.87,14513.18,1953.23,Online
+ORD10757,2025-05-30,Priya Verma,Chennai,South,Home Appliances,Washing Machine,1,44850.0,12.54,37264.52,5734.97,Offline
+ORD10758,2025-03-01,Arjun Nair,Hyderabad,South,Furniture,Bookshelf,3,14360.0,10.11,38724.61,9861.01,Online
+ORD10759,2025-05-24,Karan Malhotra,Chennai,South,Clothing,Shoes,2,2500.0,11.09,4223.22,1610.72,Online
+ORD10760,2025-02-16,Manish Agarwal,Mumbai,West,Furniture,Sofa,2,43950.0,12.44,76965.24,18072.24,Offline
+ORD10761,2025-08-17,Shreya Das,Indore,Central,Home Appliances,Mixer Grinder,3,4870.0,10.45,13083.26,2271.85,Online
+ORD10762,2025-05-23,Nitin Joshi,Delhi,North,Furniture,Sofa,3,56460.0,12.51,140781.03,32970.66,Online
+ORD10763,2025-03-10,Aditya Mishra,Delhi,North,Home Appliances,Microwave,2,14240.0,14.3,24407.36,3332.16,Offline
+ORD10764,2025-02-09,Aarav Sharma,Surat,West,Grocery,Tea,6,720.0,9.03,3929.9,387.5,Online
+ORD10765,2025-09-26,Priya Verma,Surat,West,Clothing,Jeans,4,2960.0,4.89,11261.02,4749.02,Online
+ORD10766,2025-11-06,Simran Kaur,Ahmedabad,West,Grocery,Cooking Oil,6,750.0,5.51,4592.21,607.01,Offline
+ORD10767,2025-04-02,Amit Kumar,Bengaluru,South,Furniture,Sofa,3,40990.0,7.72,107802.88,29532.48,Online
+ORD10768,2025-10-29,Vikram Mehta,Bhopal,Central,Home Appliances,Microwave,3,13930.0,2.33,44081.6,10683.03,Online
+ORD10769,2025-05-01,Manish Agarwal,Surat,West,Electronics,Smartphone,1,29200.0,12.59,24247.53,2610.33,Online
+ORD10770,2025-12-03,Neha Gupta,Pune,West,Clothing,Jacket,5,5620.0,15.55,25628.89,8937.49,Online
+ORD10771,2025-10-06,Vikram Mehta,Lucknow,North,Home Appliances,Mixer Grinder,4,6930.0,7.49,27695.27,5541.45,Offline
+ORD10772,2025-11-14,Manish Agarwal,Hyderabad,South,Clothing,T-Shirt,4,1500.0,5.46,6126.19,2562.19,Online
+ORD10773,2025-03-24,Priya Verma,Indore,Central,Electronics,Smartphone,2,28560.0,17.11,47346.77,2793.17,Online
+ORD10774,2025-03-19,Vikram Mehta,Bengaluru,South,Home Appliances,Refrigerator,2,33180.0,9.7,59923.08,10816.68,Online
+ORD10775,2025-01-22,Priya Verma,Delhi,North,Electronics,Tablet,3,19940.0,10.77,53377.39,6717.79,Online
+ORD10776,2025-08-31,Amit Kumar,Noida,North,Home Appliances,Microwave,5,21220.0,13.08,92222.12,13708.12,Online
+ORD10777,2025-07-14,Simran Kaur,Bhubaneswar,East,Grocery,Coffee,6,1700.0,10.25,9154.5,790.5,Offline
+ORD10778,2025-10-20,Aarav Sharma,Lucknow,North,Clothing,T-Shirt,1,1890.0,9.93,1838.51,715.85,Online
+ORD10779,2025-11-15,Manish Agarwal,Hyderabad,South,Electronics,Tablet,5,19850.0,12.12,94198.57,10590.37,Online
+ORD10780,2025-10-01,Priya Verma,Pune,West,Grocery,Rice,5,1480.0,9.42,7239.15,685.71,Online
+ORD10781,2025-12-17,Pooja Shah,Pune,West,Clothing,Jacket,1,4800.0,8.39,4749.06,1897.86,Online
+ORD10782,2025-11-21,Neha Gupta,Indore,Central,Clothing,Jacket,1,2820.0,5.46,2879.31,1204.23,Online
+ORD10783,2025-05-28,Amit Kumar,Delhi,North,Home Appliances,Washing Machine,1,51660.0,10.93,43712.88,7395.9,Online
+ORD10784,2025-10-24,Simran Kaur,Bengaluru,South,Furniture,Bookshelf,1,8520.0,5.9,8658.71,2493.63,Online
+ORD10785,2025-02-02,Anjali Rao,Kolkata,East,Furniture,Sofa,1,39190.0,7.95,36074.39,9817.09,Online
+ORD10786,2025-05-21,Amit Kumar,Pune,West,Furniture,Study Table,2,6410.0,17.94,9994.09,1834.16,Offline
+ORD10787,2025-05-03,Arjun Nair,Gurugram,North,Clothing,Shoes,4,2230.0,7.47,7840.99,3180.29,Online
+ORD10788,2025-08-04,Anjali Rao,Bengaluru,South,Furniture,Study Table,2,10670.0,18.54,17383.56,3085.76,Online
+ORD10789,2025-01-28,Vikram Mehta,Pune,West,Electronics,Smartphone,3,40130.0,13.02,104715.22,10811.02,Online
+ORD10790,2025-11-02,Sneha Patel,Kolkata,East,Clothing,Shoes,5,5300.0,15.38,24218.24,8477.24,Online
+ORD10791,2025-10-13,Nitin Joshi,Delhi,North,Electronics,Smartphone,5,51660.0,12.06,245320.94,27729.02,Online
+ORD10792,2025-02-17,Nitin Joshi,Ahmedabad,West,Home Appliances,Microwave,1,11480.0,3.32,11098.86,2603.66,Online
+ORD10793,2025-08-21,Pooja Shah,Noida,North,Clothing,Jacket,3,5380.0,9.53,14601.86,5724.86,Online
+ORD10794,2025-07-24,Aditya Mishra,Bengaluru,South,Furniture,Study Table,2,16520.0,4.61,31516.86,9380.06,Offline
+ORD10795,2025-07-15,Priya Verma,Noida,North,Home Appliances,Microwave,3,14610.0,7.62,40490.15,8055.95,Online
+ORD10796,2025-05-04,Neha Gupta,Kolkata,East,Furniture,Sofa,1,62480.0,16.31,49675.04,9906.52,Online
+ORD10797,2025-03-05,Sneha Patel,Kolkata,East,Electronics,Smartphone,4,28930.0,9.66,104541.45,14279.85,Online
+ORD10798,2025-09-19,Pooja Shah,Mumbai,West,Clothing,Shoes,2,6570.0,6.22,12322.69,5095.69,Online
+ORD10799,2025-07-13,Amit Kumar,Hyderabad,South,Grocery,Rice,2,1100.0,10.13,1977.14,173.14,Offline
+ORD10800,2025-12-01,Aditya Mishra,Chennai,South,Home Appliances,Mixer Grinder,4,3330.0,10.05,12939.85,2294.5,Offline
+ORD10801,2025-09-14,Riya Kapoor,Gurugram,North,Electronics,Tablet,2,39770.0,12.68,69454.33,7413.13,Online
+ORD10802,2025-08-03,Vikram Mehta,Bengaluru,South,Home Appliances,Mixer Grinder,2,5510.0,14.82,9386.84,1232.04,Offline
+ORD10803,2025-05-19,Sneha Patel,Bhubaneswar,East,Clothing,T-Shirt,2,670.0,5.6,1201.71,501.56,Online
+ORD10804,2025-01-17,Kavya Singh,Chennai,South,Grocery,Coffee,9,1440.0,6.63,12100.75,1473.55,Offline
+ORD10805,2025-09-19,Aditya Mishra,Noida,North,Electronics,Headphones,2,10060.0,3.84,19347.39,3653.79,Online
+ORD10806,2025-09-15,Kavya Singh,Mumbai,West,Electronics,Tablet,5,43900.0,15.53,185411.65,14201.65,Offline
+ORD10807,2025-10-21,Aarav Sharma,Jaipur,North,Electronics,Headphones,1,4730.0,19.48,4113.28,128.73,Offline
+ORD10808,2025-03-08,Kavya Singh,Kolkata,East,Electronics,Tablet,5,38080.0,8.5,174216.0,25704.0,Offline
+ORD10809,2025-01-04,Simran Kaur,Mumbai,West,Electronics,Smartphone,5,13970.0,9.35,63319.02,8836.03,Online
+ORD10810,2025-05-09,Riya Kapoor,Kolkata,East,Clothing,Jeans,2,2650.0,8.92,4585.88,1816.63,Offline
+ORD10811,2025-12-12,Meera Iyer,Hyderabad,South,Home Appliances,Mixer Grinder,1,4870.0,8.96,4788.34,896.24,Online
+ORD10812,2025-03-03,Vikram Mehta,Surat,West,Clothing,Shoes,2,3650.0,8.63,6670.01,2655.01,Offline
+ORD10813,2025-09-11,Kavya Singh,Pune,West,Furniture,Study Table,3,18250.0,11.01,48722.02,12039.53,Offline
+ORD10814,2025-07-16,Vikram Mehta,Jaipur,North,Furniture,Office Chair,3,13570.0,12.18,35751.52,8475.82,Online
+ORD10815,2025-01-24,Manish Agarwal,Bhopal,Central,Home Appliances,Refrigerator,1,72960.0,13.8,62891.52,8901.12,Offline
+ORD10816,2025-12-04,Neha Gupta,Ahmedabad,West,Home Appliances,Mixer Grinder,3,7200.0,8.92,21247.14,3984.42,Offline
+ORD10817,2025-11-21,Neha Gupta,Chennai,South,Grocery,Rice,6,1540.0,12.56,8725.81,542.87,Online
+ORD10818,2025-07-17,Manish Agarwal,Jaipur,North,Grocery,Rice,2,970.0,5.78,1827.87,237.07,Online
+ORD10819,2025-01-07,Arjun Nair,Bengaluru,South,Clothing,T-Shirt,2,1100.0,7.67,2031.26,821.26,Online
+ORD10820,2025-07-09,Shreya Das,Ahmedabad,West,Home Appliances,Microwave,1,15870.0,15.08,13476.8,1733.0,Offline
+ORD10821,2025-04-16,Anjali Rao,Delhi,North,Clothing,Jacket,3,6260.0,5.2,16913.27,7100.72,Online
+ORD10822,2025-07-07,Riya Kapoor,Bhopal,Central,Grocery,Rice,10,530.0,4.53,5059.91,713.91,Offline
+ORD10823,2025-08-23,Vikram Mehta,Mumbai,West,Clothing,T-Shirt,4,730.0,6.05,2743.34,1137.34,Offline
+ORD10824,2025-12-04,Vikram Mehta,Jaipur,North,Clothing,T-Shirt,2,1820.0,8.9,3581.32,1419.16,Online
+ORD10825,2025-11-05,Rahul Singh,Hyderabad,South,Clothing,T-Shirt,5,1930.0,12.92,9075.48,3343.38,Online
+ORD10826,2025-07-27,Karan Malhotra,Chennai,South,Grocery,Rice,8,1150.0,9.74,8303.92,759.92,Online
+ORD10827,2025-05-25,Sneha Patel,Gurugram,North,Furniture,Office Chair,2,13240.0,16.06,21115.95,4261.43,Online
+ORD10828,2025-09-20,Simran Kaur,Kolkata,East,Electronics,Laptop,3,80320.0,13.54,208334.02,20385.22,Offline
+ORD10829,2025-04-22,Pooja Shah,Ahmedabad,West,Electronics,Smartphone,2,49970.0,11.09,84413.82,10358.28,Offline
+ORD10830,2025-06-20,Aditya Mishra,Gurugram,North,Grocery,Tea,2,720.0,15.82,1212.19,31.39,Offline
+ORD10831,2025-02-03,Nitin Joshi,Lucknow,North,Clothing,Shoes,1,3960.0,8.55,3621.42,1443.42,Online
+ORD10832,2025-06-18,Arjun Nair,Surat,West,Furniture,Sofa,2,45550.0,0.03,91072.67,30035.67,Online
+ORD10833,2025-09-27,Vikram Mehta,Jaipur,North,Home Appliances,Microwave,2,14000.0,12.38,24533.6,3813.6,Offline
+ORD10834,2025-09-06,Pooja Shah,Kolkata,East,Electronics,Headphones,3,9510.0,9.92,25699.82,3446.42,Offline
+ORD10835,2025-09-09,Riya Kapoor,Bhopal,Central,Furniture,Bookshelf,1,12920.0,17.76,10625.41,1969.01,Online
+ORD10836,2025-06-26,Rahul Singh,Chennai,South,Furniture,Sofa,1,50140.0,15.82,42207.85,8614.05,Offline
+ORD10837,2025-02-22,Karan Malhotra,Indore,Central,Home Appliances,Washing Machine,1,35510.0,11.0,31603.9,5326.5,Offline
+ORD10838,2025-01-21,Pooja Shah,Mumbai,West,Electronics,Smartphone,5,23980.0,7.31,111135.31,17613.31,Online
+ORD10839,2025-06-02,Riya Kapoor,Noida,North,Electronics,Headphones,5,9500.0,17.55,39163.75,2113.75,Online
+ORD10840,2025-08-14,Vikram Mehta,Chennai,South,Grocery,Tea,3,930.0,11.11,2480.03,192.23,Offline
+ORD10841,2025-02-09,Anjali Rao,Chennai,South,Grocery,Cooking Oil,6,1990.0,18.74,9702.44,-88.36,Offline
+ORD10842,2025-02-25,Manish Agarwal,Indore,Central,Furniture,Bookshelf,1,11210.0,9.14,10185.41,2674.71,Online
+ORD10843,2025-12-25,Arjun Nair,Lucknow,North,Furniture,Study Table,1,10620.0,6.8,10689.67,3005.04,Online
+ORD10844,2025-09-01,Rohit Yadav,Bhubaneswar,East,Home Appliances,Washing Machine,1,24060.0,14.59,20549.65,2745.25,Online
+ORD10845,2025-01-31,Neha Gupta,Delhi,North,Furniture,Office Chair,2,14510.0,9.56,26245.69,6802.29,Online
+ORD10846,2025-06-14,Pooja Shah,Chennai,South,Electronics,Headphones,1,1410.0,10.21,1266.04,166.24,Offline
+ORD10847,2025-09-29,Arjun Nair,Ahmedabad,West,Electronics,Smartphone,3,44140.0,17.09,109789.42,6501.82,Online
+ORD10848,2025-02-17,Rohit Yadav,Jaipur,North,Grocery,Cooking Oil,6,390.0,10.1,2103.66,184.86,Online
+ORD10849,2025-11-23,Kavya Singh,Noida,North,Furniture,Study Table,2,5470.0,9.48,10695.12,2778.94,Offline
+ORD10850,2025-08-26,Amit Kumar,Ahmedabad,West,Grocery,Coffee,8,1170.0,10.25,8400.6,725.4,Online
+ORD10851,2025-06-14,Vikram Mehta,Kolkata,East,Clothing,Jeans,4,1450.0,7.83,5345.86,2155.86,Offline
+ORD10852,2025-01-30,Nitin Joshi,Gurugram,North,Electronics,Headphones,4,4670.0,9.14,16972.65,2402.25,Online
+ORD10853,2025-01-31,Aarav Sharma,Chennai,South,Home Appliances,Washing Machine,2,37010.0,10.57,66196.09,11421.29,Online
+ORD10854,2025-06-04,Manish Agarwal,Lucknow,North,Furniture,Sofa,3,34020.0,11.0,90833.4,22453.2,Online
+ORD10855,2025-05-12,Manish Agarwal,Lucknow,North,Clothing,Shoes,4,8000.0,9.59,27484.64,10764.64,Offline
+ORD10856,2025-10-08,Neha Gupta,Jaipur,North,Clothing,Jacket,5,6130.0,1.18,32711.4,14505.3,Online
+ORD10857,2025-08-14,Arjun Nair,Bengaluru,South,Clothing,Jeans,6,3120.0,10.69,16718.83,6422.83,Offline
+ORD10858,2025-08-06,Rohit Yadav,Kolkata,East,Clothing,T-Shirt,4,2030.0,24.44,6135.47,1669.47,Offline
+ORD10859,2025-07-28,Kavya Singh,Chennai,South,Clothing,T-Shirt,5,690.0,10.02,3104.31,1206.81,Online
+ORD10860,2025-05-24,Priya Verma,Mumbai,West,Clothing,Shoes,6,2480.0,10.33,12675.75,4900.95,Offline
+ORD10861,2025-07-14,Rohit Yadav,Chennai,South,Clothing,T-Shirt,5,740.0,10.92,3295.96,1260.96,Online
+ORD10862,2025-07-22,Amit Kumar,Indore,Central,Home Appliances,Refrigerator,4,50520.0,14.17,173445.26,23906.06,Online
+ORD10863,2025-01-24,Amit Kumar,Delhi,North,Furniture,Office Chair,2,18580.0,16.65,30972.86,6075.66,Online
+ORD10864,2025-07-14,Priya Verma,Indore,Central,Clothing,Jeans,4,2150.0,9.8,7757.2,3027.2,Online
+ORD10865,2025-08-22,Amit Kumar,Bhubaneswar,East,Furniture,Sofa,3,41390.0,14.3,106413.69,23219.79,Offline
+ORD10866,2025-02-17,Manish Agarwal,Bhopal,Central,Clothing,Shoes,2,2520.0,9.28,4572.29,1800.29,Offline
+ORD10867,2025-05-11,Nitin Joshi,Hyderabad,South,Clothing,Jacket,2,4640.0,6.99,8199.76,3350.96,Offline
+ORD10868,2025-09-26,Anjali Rao,Bhubaneswar,East,Clothing,Jacket,2,6040.0,14.33,10348.94,3704.94,Online
+ORD10869,2025-11-25,Priya Verma,Gurugram,North,Furniture,Bookshelf,3,6770.0,10.19,19699.64,5003.33,Online
+ORD10870,2025-02-17,Nitin Joshi,Mumbai,West,Electronics,Laptop,5,82050.0,11.51,363030.22,43035.22,Online
+ORD10871,2025-04-12,Anjali Rao,Bhubaneswar,East,Clothing,Jeans,3,3100.0,18.36,7212.89,2353.64,Online
+ORD10872,2025-03-17,Riya Kapoor,Lucknow,North,Home Appliances,Mixer Grinder,1,7130.0,11.75,6292.22,1016.03,Offline
+ORD10873,2025-12-12,Arjun Nair,Ahmedabad,West,Home Appliances,Washing Machine,5,41120.0,3.5,214276.32,49960.8,Offline
+ORD10874,2025-08-13,Arjun Nair,Surat,West,Furniture,Office Chair,2,4230.0,14.42,7240.07,1571.87,Offline
+ORD10875,2025-11-28,Neha Gupta,Noida,North,Electronics,Smartphone,2,26390.0,5.1,54095.28,9633.41,Online
+ORD10876,2025-08-04,Manish Agarwal,Gurugram,North,Clothing,Jeans,5,2530.0,7.09,11753.12,4795.62,Offline
+ORD10877,2025-10-03,Vikram Mehta,Chennai,South,Clothing,Jacket,6,5160.0,14.14,28708.84,10318.6,Online
+ORD10878,2025-04-02,Riya Kapoor,Ahmedabad,West,Furniture,Study Table,2,17590.0,7.61,30877.66,8485.59,Online
+ORD10879,2025-09-14,Anjali Rao,Delhi,North,Home Appliances,Mixer Grinder,2,3590.0,10.37,6435.43,1122.23,Offline
+ORD10880,2025-08-06,Arjun Nair,Ahmedabad,West,Home Appliances,Mixer Grinder,1,7210.0,8.25,6615.18,1279.78,Offline
+ORD10881,2025-10-04,Meera Iyer,Gurugram,North,Grocery,Coffee,10,380.0,16.12,3442.44,77.16,Offline
+ORD10882,2025-07-03,Anjali Rao,Kolkata,East,Furniture,Bookshelf,1,7910.0,8.8,7213.92,1914.22,Offline
+ORD10883,2025-11-12,Shreya Das,Jaipur,North,Clothing,Jacket,3,6030.0,13.09,16979.78,6234.32,Online
+ORD10884,2025-10-09,Riya Kapoor,Chennai,South,Furniture,Sofa,2,21320.0,6.07,43255.89,12401.59,Online
+ORD10885,2025-10-28,Arjun Nair,Bengaluru,South,Home Appliances,Microwave,1,12510.0,15.79,11377.44,1379.45,Online
+ORD10886,2025-10-08,Vikram Mehta,Bengaluru,South,Clothing,Jacket,2,3000.0,13.89,5579.93,2015.93,Offline
+ORD10887,2025-07-18,Anjali Rao,Noida,North,Clothing,Jacket,6,6320.0,13.01,32986.61,12130.61,Online
+ORD10888,2025-10-05,Karan Malhotra,Chennai,South,Home Appliances,Mixer Grinder,2,4660.0,10.08,9050.99,1602.44,Offline
+ORD10889,2025-06-24,Riya Kapoor,Bhopal,Central,Home Appliances,Mixer Grinder,3,2100.0,10.77,5621.49,959.49,Online
+ORD10890,2025-12-16,Rahul Singh,Hyderabad,South,Clothing,Jeans,4,2670.0,15.7,9723.5,3379.58,Online
+ORD10891,2025-07-09,Neha Gupta,Bhopal,Central,Home Appliances,Refrigerator,5,54010.0,10.76,240992.62,41155.62,Online
+ORD10892,2025-12-19,Rahul Singh,Bhopal,Central,Furniture,Study Table,2,12240.0,5.89,24881.18,7167.45,Offline
+ORD10893,2025-11-22,Manish Agarwal,Hyderabad,South,Furniture,Office Chair,3,3790.0,10.38,11004.98,2777.65,Online
+ORD10894,2025-01-15,Shreya Das,Hyderabad,South,Electronics,Headphones,3,12990.0,6.31,36510.99,6114.39,Online
+ORD10895,2025-05-21,Meera Iyer,Indore,Central,Electronics,Smartphone,1,55390.0,11.17,46742.79,5698.8,Online
+ORD10896,2025-09-22,Karan Malhotra,Ahmedabad,West,Home Appliances,Refrigerator,5,41440.0,3.99,198932.72,45604.72,Offline
+ORD10897,2025-04-01,Nitin Joshi,Chennai,South,Furniture,Sofa,3,32770.0,11.32,82822.24,20247.93,Online
+ORD10898,2025-06-07,Amit Kumar,Chennai,South,Home Appliances,Mixer Grinder,4,2430.0,13.57,8401.0,1208.2,Offline
+ORD10899,2025-07-17,Aditya Mishra,Bhubaneswar,East,Electronics,Headphones,1,1730.0,14.22,1483.99,134.59,Offline
+ORD10900,2025-03-24,Nitin Joshi,Delhi,North,Grocery,Cooking Oil,4,2060.0,13.23,7149.85,393.05,Online
+ORD10901,2025-11-15,Rahul Singh,Delhi,North,Grocery,Coffee,3,890.0,10.54,2579.67,215.12,Online
+ORD10902,2025-04-27,Riya Kapoor,Gurugram,North,Grocery,Tea,10,1010.0,14.16,8236.35,368.45,Online
+ORD10903,2025-06-15,Rohit Yadav,Noida,North,Electronics,Tablet,4,18580.0,12.2,65252.96,7283.36,Offline
+ORD10904,2025-07-04,Anjali Rao,Indore,Central,Clothing,T-Shirt,1,1840.0,13.68,1588.29,576.29,Online
+ORD10905,2025-07-12,Karan Malhotra,Bhopal,Central,Electronics,Headphones,4,4270.0,6.59,15954.43,2632.03,Offline
+ORD10906,2025-06-26,Nitin Joshi,Kolkata,East,Clothing,Jacket,1,2780.0,7.65,2567.33,1038.33,Online
+ORD10907,2025-01-31,Karan Malhotra,Bhopal,Central,Electronics,Smartphone,4,21270.0,4.49,81259.91,14897.51,Offline
+ORD10908,2025-09-18,Nitin Joshi,Bhubaneswar,East,Furniture,Study Table,3,7090.0,12.27,18660.17,4409.27,Online
+ORD10909,2025-05-25,Amit Kumar,Ahmedabad,West,Clothing,Shoes,1,4860.0,14.28,3957.69,1418.34,Online
+ORD10910,2025-01-12,Neha Gupta,Indore,Central,Electronics,Laptop,5,89390.0,16.35,373873.68,25252.67,Online
+ORD10911,2025-11-26,Karan Malhotra,Delhi,North,Furniture,Sofa,3,24320.0,4.73,75069.71,22275.86,Online
+ORD10912,2025-04-06,Anjali Rao,Bhubaneswar,East,Clothing,Shoes,3,7000.0,17.59,16440.79,5468.29,Online
+ORD10913,2025-12-02,Pooja Shah,Bengaluru,South,Furniture,Office Chair,2,11030.0,7.26,22095.12,6132.5,Online
+ORD10914,2025-08-20,Aarav Sharma,Jaipur,North,Home Appliances,Microwave,4,9000.0,3.31,34808.4,8168.4,Online
+ORD10915,2025-02-15,Nitin Joshi,Surat,West,Clothing,Jeans,3,2550.0,13.64,6606.54,2399.04,Offline
+ORD10916,2025-03-23,Pooja Shah,Bhopal,Central,Grocery,Tea,7,460.0,10.99,2866.12,225.72,Online
+ORD10917,2025-09-15,Kavya Singh,Mumbai,West,Electronics,Headphones,1,6560.0,3.12,6355.33,1238.53,Offline
+ORD10918,2025-08-07,Amit Kumar,Hyderabad,South,Furniture,Bookshelf,3,3880.0,3.99,11175.56,3376.76,Offline
+ORD10919,2025-07-25,Shreya Das,Ahmedabad,West,Clothing,Jeans,3,2460.0,7.29,6842.0,2783.0,Online
+ORD10920,2025-01-29,Shreya Das,Bhubaneswar,East,Home Appliances,Mixer Grinder,5,4330.0,3.82,20822.97,4801.97,Online
+ORD10921,2025-05-27,Anjali Rao,Bengaluru,South,Furniture,Bookshelf,3,11320.0,9.63,29155.17,7539.63,Online
+ORD10922,2025-01-04,Kavya Singh,Hyderabad,South,Home Appliances,Mixer Grinder,3,4250.0,19.57,10254.83,819.83,Online
+ORD10923,2025-10-06,Simran Kaur,Kolkata,East,Clothing,T-Shirt,3,1330.0,19.22,3480.97,1110.91,Online
+ORD10924,2025-10-05,Sneha Patel,Jaipur,North,Home Appliances,Refrigerator,1,67170.0,4.45,69315.41,15633.15,Online
+ORD10925,2025-10-28,Vikram Mehta,Pune,West,Furniture,Study Table,3,21280.0,11.07,61314.74,15120.12,Online
+ORD10926,2025-11-05,Rahul Singh,Indore,Central,Clothing,Jacket,5,3490.0,9.68,17021.71,6656.41,Offline
+ORD10927,2025-04-23,Shreya Das,Bengaluru,South,Clothing,Jeans,4,1310.0,2.46,4855.54,2117.64,Offline
+ORD10928,2025-12-28,Simran Kaur,Bhubaneswar,East,Furniture,Bookshelf,3,12570.0,4.69,38816.71,11529.76,Online
+ORD10929,2025-11-08,Nitin Joshi,Bhubaneswar,East,Home Appliances,Mixer Grinder,5,5260.0,6.13,26662.83,5643.87,Online
+ORD10930,2025-01-26,Shreya Das,Indore,Central,Home Appliances,Mixer Grinder,2,7530.0,4.49,14383.81,3239.41,Online
+ORD10931,2025-07-28,Anjali Rao,Surat,West,Clothing,Shoes,2,3260.0,13.6,5633.28,2047.28,Online
+ORD10932,2025-04-16,Shreya Das,Noida,North,Furniture,Bookshelf,1,4450.0,4.95,4018.24,1185.81,Online
+ORD10933,2025-04-16,Neha Gupta,Mumbai,West,Electronics,Headphones,5,13570.0,7.71,59487.83,9210.98,Online
+ORD10934,2025-01-31,Pooja Shah,Pune,West,Furniture,Sofa,1,43800.0,15.33,37085.46,7739.46,Online
+ORD10935,2025-01-19,Priya Verma,Kolkata,East,Grocery,Coffee,6,1230.0,7.69,6812.48,760.88,Offline
+ORD10936,2025-09-11,Meera Iyer,Mumbai,West,Clothing,T-Shirt,5,1900.0,10.34,8517.7,3292.7,Online
+ORD10937,2025-08-31,Manish Agarwal,Lucknow,North,Grocery,Tea,1,440.0,10.0,396.0,35.2,Online
+ORD10938,2025-06-11,Sneha Patel,Gurugram,North,Grocery,Tea,4,820.0,9.67,2962.82,273.22,Offline
+ORD10939,2025-05-18,Rohit Yadav,Jaipur,North,Home Appliances,Mixer Grinder,5,6520.0,11.44,27427.03,4509.23,Online
+ORD10940,2025-11-03,Shreya Das,Surat,West,Furniture,Bookshelf,2,4620.0,5.46,9434.34,2748.27,Online
+ORD10941,2025-12-31,Nitin Joshi,Surat,West,Electronics,Smartphone,1,47260.0,17.55,42083.14,2271.32,Offline
+ORD10942,2025-05-15,Neha Gupta,Ahmedabad,West,Furniture,Study Table,3,23610.0,3.73,64778.64,19695.34,Online
+ORD10943,2025-05-18,Riya Kapoor,Mumbai,West,Home Appliances,Microwave,5,10390.0,11.15,43849.7,7328.85,Offline
+ORD10944,2025-12-22,Aditya Mishra,Jaipur,North,Furniture,Sofa,2,24590.0,8.24,48737.77,13151.13,Online
+ORD10945,2025-03-09,Meera Iyer,Kolkata,East,Furniture,Bookshelf,2,11650.0,12.59,20366.53,4755.53,Offline
+ORD10946,2025-09-30,Priya Verma,Bhubaneswar,East,Grocery,Coffee,7,700.0,11.97,4313.47,295.47,Offline
+ORD10947,2025-03-02,Vikram Mehta,Noida,North,Clothing,Shoes,1,2720.0,7.91,2504.85,1008.85,Online
+ORD10948,2025-09-07,Kavya Singh,Chennai,South,Furniture,Bookshelf,3,7080.0,3.99,20392.52,6161.72,Offline
+ORD10949,2025-02-14,Kavya Singh,Gurugram,North,Clothing,T-Shirt,4,830.0,14.06,2853.21,1027.21,Online
+ORD10950,2025-05-09,Sneha Patel,Pune,West,Grocery,Rice,7,510.0,6.21,3180.89,399.86,Online
+ORD10951,2025-04-07,Manish Agarwal,Pune,West,Grocery,Coffee,9,230.0,3.7,1893.74,281.21,Online
+ORD10952,2025-05-15,Simran Kaur,Pune,West,Clothing,Jacket,4,4600.0,6.1,16413.72,6799.72,Offline
+ORD10953,2025-04-02,Meera Iyer,Ahmedabad,West,Electronics,Laptop,3,64160.0,11.49,161845.85,19218.17,Online
+ORD10954,2025-11-04,Priya Verma,Lucknow,North,Clothing,Jacket,1,4300.0,6.58,4338.42,1784.22,Online
+ORD10955,2025-02-14,Nitin Joshi,Surat,West,Clothing,Shoes,4,5150.0,16.22,17258.68,5928.68,Online
+ORD10956,2025-12-11,Anjali Rao,Kolkata,East,Grocery,Rice,8,520.0,9.87,4049.36,365.26,Online
+ORD10957,2025-04-09,Simran Kaur,Ahmedabad,West,Home Appliances,Refrigerator,2,37780.0,7.24,66584.98,13466.3,Online
+ORD10958,2025-09-19,Kavya Singh,Delhi,North,Electronics,Laptop,1,45490.0,11.19,40399.67,4917.47,Offline
+ORD10959,2025-05-23,Kavya Singh,Ahmedabad,West,Furniture,Office Chair,1,8050.0,10.71,6828.45,1704.63,Offline
+ORD10960,2025-05-23,Vikram Mehta,Ahmedabad,West,Electronics,Tablet,4,11720.0,11.38,39467.8,4729.72,Online
+ORD10961,2025-07-23,Arjun Nair,Kolkata,East,Furniture,Office Chair,2,7530.0,16.93,12510.34,2420.14,Online
+ORD10962,2025-12-28,Kavya Singh,Bengaluru,South,Electronics,Smartphone,4,65700.0,7.26,263218.38,41835.66,Offline
+ORD10963,2025-07-20,Aarav Sharma,Delhi,North,Home Appliances,Mixer Grinder,4,6810.0,10.13,24480.59,4322.99,Offline
+ORD10964,2025-11-13,Aarav Sharma,Bengaluru,South,Home Appliances,Microwave,5,17660.0,10.03,85798.99,15229.63,Offline
+ORD10965,2025-01-28,Amit Kumar,Bengaluru,South,Clothing,Jeans,5,1360.0,12.58,5944.56,2204.56,Offline
+ORD10966,2025-06-03,Neha Gupta,Surat,West,Electronics,Smartphone,4,55820.0,6.02,209838.54,35680.14,Online
+ORD10967,2025-05-24,Aarav Sharma,Jaipur,North,Furniture,Sofa,3,61810.0,4.59,168072.82,50046.63,Online
+ORD10968,2025-12-22,Sneha Patel,Indore,Central,Clothing,Jacket,4,3760.0,0.0,16243.2,7309.44,Online
+ORD10969,2025-11-11,Simran Kaur,Bengaluru,South,Electronics,Headphones,3,5050.0,14.88,13927.33,1164.97,Online
+ORD10970,2025-10-16,Riya Kapoor,Delhi,North,Grocery,Tea,8,900.0,2.11,7611.93,1235.61,Offline
+ORD10971,2025-10-20,Karan Malhotra,Ahmedabad,West,Furniture,Study Table,1,22110.0,11.23,21197.21,5198.41,Online
+ORD10972,2025-02-01,Priya Verma,Gurugram,North,Clothing,T-Shirt,2,660.0,11.39,1169.65,443.65,Offline
+ORD10973,2025-09-15,Rohit Yadav,Kolkata,East,Clothing,Jeans,6,3150.0,10.29,16955.19,6560.19,Online
+ORD10974,2025-02-14,Riya Kapoor,Bengaluru,South,Furniture,Office Chair,3,18500.0,7.3,51448.5,14263.5,Offline
+ORD10975,2025-09-23,Rohit Yadav,Surat,West,Clothing,T-Shirt,2,1010.0,17.04,1675.79,564.79,Online
+ORD10976,2025-11-08,Sneha Patel,Lucknow,North,Home Appliances,Washing Machine,3,56690.0,9.23,166722.34,30802.4,Online
+ORD10977,2025-11-22,Shreya Das,Bengaluru,South,Clothing,T-Shirt,5,1980.0,2.5,10424.7,4544.1,Online
+ORD10978,2025-11-28,Kavya Singh,Bhopal,Central,Furniture,Study Table,2,22570.0,9.93,43910.21,11246.9,Online
+ORD10979,2025-04-17,Karan Malhotra,Bengaluru,South,Home Appliances,Washing Machine,2,28060.0,11.96,46937.65,7485.29,Online
+ORD10980,2025-09-19,Rahul Singh,Hyderabad,South,Electronics,Laptop,2,63180.0,8.43,115707.85,17147.05,Online
+ORD10981,2025-01-28,Amit Kumar,Bhubaneswar,East,Grocery,Cooking Oil,10,370.0,14.88,3149.44,115.44,Online
+ORD10982,2025-05-13,Arjun Nair,Pune,West,Furniture,Bookshelf,1,14590.0,13.2,12030.91,2744.38,Online
+ORD10983,2025-05-10,Sneha Patel,Ahmedabad,West,Home Appliances,Mixer Grinder,4,3300.0,11.68,11075.33,1795.73,Online
+ORD10984,2025-08-27,Aditya Mishra,Bengaluru,South,Furniture,Study Table,2,5880.0,3.32,11369.57,3490.37,Online
+ORD10985,2025-01-16,Riya Kapoor,Pune,West,Clothing,Jeans,6,1820.0,15.39,9239.41,3233.41,Online
+ORD10986,2025-04-23,Amit Kumar,Pune,West,Grocery,Tea,4,270.0,13.36,888.93,47.61,Online
+ORD10987,2025-06-27,Riya Kapoor,Kolkata,East,Grocery,Tea,1,740.0,15.15,627.89,21.09,Offline
+ORD10988,2025-08-24,Kavya Singh,Kolkata,East,Home Appliances,Microwave,1,13250.0,11.66,11705.05,1900.05,Online
+ORD10989,2025-12-13,Sneha Patel,Noida,North,Furniture,Office Chair,2,9620.0,9.28,18850.89,4928.83,Offline
+ORD10990,2025-02-17,Karan Malhotra,Delhi,North,Electronics,Smartphone,5,35150.0,13.14,152656.45,15571.45,Online
+ORD10991,2025-06-19,Kavya Singh,Mumbai,West,Furniture,Study Table,2,8350.0,13.55,14437.15,3248.15,Offline
+ORD10992,2025-02-12,Amit Kumar,Noida,North,Home Appliances,Washing Machine,1,59940.0,11.08,53298.65,8943.05,Online
+ORD10993,2025-04-11,Vikram Mehta,Ahmedabad,West,Electronics,Headphones,3,13080.0,10.34,33423.45,4346.61,Offline
+ORD10994,2025-09-15,Neha Gupta,Ahmedabad,West,Clothing,Jacket,2,2520.0,6.24,4725.5,1953.5,Online
+ORD10995,2025-06-05,Manish Agarwal,Ahmedabad,West,Clothing,T-Shirt,4,1850.0,5.19,7015.94,2945.94,Offline
+ORD10996,2025-01-25,Manish Agarwal,Surat,West,Electronics,Laptop,4,87560.0,13.63,302502.29,29315.09,Offline
+ORD10997,2025-07-24,Sneha Patel,Hyderabad,South,Electronics,Smartphone,3,31180.0,12.08,82240.37,9279.17,Online
+ORD10998,2025-12-23,Riya Kapoor,Pune,West,Furniture,Study Table,1,9040.0,7.11,9069.04,2527.69,Online
+ORD10999,2025-02-25,Meera Iyer,Ahmedabad,West,Clothing,Jeans,5,1830.0,8.81,8343.88,3311.38,Online
+ORD11000,2025-04-15,Vikram Mehta,Chennai,South,Clothing,Shoes,6,8220.0,3.76,45092.29,19322.59,Online
