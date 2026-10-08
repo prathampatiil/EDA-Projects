@@ -105,26 +105,39 @@ Matplotlib
 Seaborn
 Jupyter Notebook
 
-## EDA Workflow
+## 🔄 EDA Workflow
 
-The analysis follows a structured Exploratory Data Analysis workflow:
+**01 → Data Loading**
 
-Data Loading
-Initial Data Inspection
-Dataset Structure Analysis
-Missing Value Analysis
-Duplicate Analysis
-Data Type Validation
-Data Cleaning
-Descriptive Statistics
-Univariate Analysis
-Bivariate Analysis
-Multivariate Analysis
-Correlation Analysis
-Price-Based Outlier Exploration
-Feature Engineering
-Key Findings
-Final Conclusions
+**02 → Initial Data Inspection**
+
+**03 → Dataset Structure Analysis**
+
+**04 → Missing Value Analysis**
+
+**05 → Duplicate Analysis**
+
+**06 → Data Type Validation**
+
+**07 → Data Cleaning**
+
+**08 → Descriptive Statistics**
+
+**09 → Univariate Analysis**
+
+**10 → Bivariate Analysis**
+
+**11 → Multivariate Analysis**
+
+**12 → Correlation Analysis**
+
+**13 → Price-Based Outlier Exploration**
+
+**14 → Feature Engineering**
+
+**15 → Key Findings**
+
+**16 → Final Conclusions**
 
 ## Key Insights
 ### Dataset-Level Insights
