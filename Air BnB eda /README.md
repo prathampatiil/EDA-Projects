@@ -10,32 +10,25 @@ The project uses Python, Pandas, NumPy, Matplotlib, and Seaborn to perform data 
 
 - [🎯 Project Objective](#-project-objective)
 - [📂 Dataset](#-dataset)
+  - [Dataset Name](#dataset-name)
+  - [Dataset Description](#dataset-description)
+  - [Dataset Dimensions](#dataset-dimensions)
 - [🛠️ Technologies & Tools](#️-technologies--tools)
 - [🔄 EDA Workflow](#-eda-workflow)
-- [🔍 1. Data Loading & Initial Exploration](#-1-data-loading--initial-exploration)
-- [🧹 2. Data Cleaning & Preprocessing](#-2-data-cleaning--preprocessing)
-- [📊 3. Descriptive Statistics](#-3-descriptive-statistics)
-- [📈 4. Univariate Analysis](#-4-univariate-analysis)
-- [🔗 5. Bivariate Analysis](#-5-bivariate-analysis)
-- [🧩 6. Multivariate Analysis](#-6-multivariate-analysis)
-- [🔥 7. Correlation Analysis](#-7-correlation-analysis)
-- [🚨 8. Outlier Analysis](#-8-outlier-analysis)
-- [💡 9. Key Insights](#-9-key-insights)
+- [💡 Key Insights](#-key-insights)
+  - [Dataset-Level Insights](#dataset-level-insights)
+  - [Pricing Insights](#pricing-insights)
+  - [Neighbourhood Insights](#neighbourhood-insights)
+  - [Room-Type Insights](#room-type-insights)
+  - [Review Insights](#review-insights)
+  - [Bed and Price Relationship](#bed-and-price-relationship)
+  - [Feature Engineering Insight](#feature-engineering-insight)
 - [📊 Important Visualizations](#-important-visualizations)
 - [🧠 Analytical Findings](#-analytical-findings)
 - [🎯 Final Conclusion](#-final-conclusion)
-- [🚀 Future Scope](#-future-scope)
-- [⚠️ Limitations](#️-limitations)
-- [📁 Project Structure](#-project-structure)
-- [⚙️ Installation & Setup](#️-installation--setup)
-- [📦 Requirements](#-requirements)
-- [▶️ How to Run](#️-how-to-run)
-- [👨‍💻 Author](#-author)
-- [⭐ Project Highlights](#-project-highlights)
-
 ---
 
-#  Project Objective
+##  Project Objective
 
 The objective of this project is to perform a systematic Exploratory Data Analysis of Airbnb listings in New York City.
 
@@ -54,13 +47,12 @@ The goal is to transform raw Airbnb listing data into meaningful analytical find
 
 ---
 
-#  Dataset
+##  Dataset
 
-## Dataset Name
-
+### Dataset Name
 `datasets.csv`
 
-## Dataset Description
+### Dataset Description
 
 The dataset contains Airbnb listing-level information for New York City.
 
@@ -102,7 +94,7 @@ For several price-based visualizations, the analysis uses a filtered dataframe c
 
 price < 1500
 
-### Technologies & Tools
+## Technologies & Tools
 
 The following technologies and Python libraries were used in the analysis:
 
@@ -113,7 +105,7 @@ Matplotlib
 Seaborn
 Jupyter Notebook
 
-### EDA Workflow
+## EDA Workflow
 
 The analysis follows a structured Exploratory Data Analysis workflow:
 
@@ -272,7 +264,7 @@ The geographic scatter plot shows the spatial distribution of listings across ne
 
 The EDA reveals several important characteristics of the Airbnb listings dataset.
 
-1. Airbnb prices are highly skewed
+### 1. Airbnb prices are highly skewed
 
 Listing prices have a strong right-skewed distribution.
 
@@ -290,19 +282,19 @@ The maximum price is:
 
 This indicates that a relatively small number of expensive listings have a substantial effect on the mean.
 
-2. Listing prices vary by neighbourhood
+### 2. Listing prices vary by neighbourhood
 
 The price-filtered analysis shows differences in average listing prices across neighbourhood groups.
 
 Manhattan has the highest mean price among the five neighbourhood groups, while the Bronx has the lowest mean price in the filtered analysis.
 
-3. Room type is an important segmentation variable
+### 3. Room type is an important segmentation variable
 
 The grouped price analysis demonstrates differences between room types within neighbourhood groups.
 
 This suggests that room type should be considered when comparing listing prices.
 
-4. Reviews and price have a weak linear relationship
+### 4. Reviews and price have a weak linear relationship
 
 The correlation between number of reviews and price is approximately:
 
@@ -310,7 +302,7 @@ The correlation between number of reviews and price is approximately:
 
 Therefore, the dataset does not show a strong linear relationship between these variables.
 
-5. Reviews and reviews per month have a stronger relationship
+### 5. Reviews and reviews per month have a stronger relationship
 
 The correlation between number of reviews and reviews per month is approximately:
 
@@ -318,7 +310,7 @@ The correlation between number of reviews and reviews per month is approximately
 
 This is considerably stronger than the relationship between reviews and price.
 
-6. Beds have the strongest positive correlation with price
+### 6. Beds have the strongest positive correlation with price
 
 The correlation between beds and price is:
 
@@ -326,7 +318,7 @@ The correlation between beds and price is:
 
 This is the strongest positive price correlation among the numerical variables included in the heatmap.
 
-7. Geographic location provides useful context
+### 7. Geographic location provides useful context
 
 The geographic visualization shows distinct spatial clustering across neighbourhood groups.
 
@@ -345,8 +337,3 @@ The correlation analysis shows that beds has the strongest positive linear relat
 In contrast, the number of reviews has a very weak linear relationship with price, with a correlation of approximately -0.044.
 
 The strongest correlation in the displayed correlation matrix is between number_of_reviews and reviews_per_month, at approximately 0.63.
-
-The project also demonstrates the importance of examining skewness, missing values, duplicates, and high-value observations before performing deeper analysis.
-
-These findings describe relationships observed in the dataset and should not be interpreted as causal conclusions.
-
